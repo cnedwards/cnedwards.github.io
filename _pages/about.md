@@ -145,7 +145,7 @@ Governor's School for Computational Physics
 
 <img src="https://cnedwards.github.io/images/gov_school.JPG?raw=true" alt="Photo" style="width: 450px;"/> 
 
-First Robotics
+FIRST Robotics
 
 [<img src="https://cnedwards.github.io/images/robotics.PNG?raw=true" alt="Photo" style="width: 450px;"/> ](https://cnedwards.github.io/files/IMG_2924.3gp)
 
