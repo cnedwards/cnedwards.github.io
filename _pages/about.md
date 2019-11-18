@@ -14,7 +14,7 @@ redirect_from:
 </p>
 -->
 
-Filler filler filler filler 
+Hi! My name is Carl Edwards and I'm from Knoxville, Tennessee. I'm a senior in computer science at the University of Tennessee, Knoxville. Additionally, I'm double majoring in math. In the future, I'd like to pursue research in machine learning and AI. I believe that a critical next step in the development of machine learning will be the creation of models that can generalize well on multiple tasks and which learn from multiple contrasting yet complementary domains of data. This is why I've developed an interest in the areas of machine learning that incorporate multiple modalities of data, such as multiview learning or joint embeddings for different data types (like text or knowledge graphs). Additionally, I am interested in multi-task and transfer learning as well. During my undergraduate career, I've had the opportunity to work on some exciting research projects!
 
 Resume
 ======
@@ -22,21 +22,53 @@ See my resume attached [here](https://cnedwards.github.io/files/Edwards_resume.p
 
 Research
 ======
-Like many other Jekyll-based GitHub Pages templates, academicpages makes you separate the website's content from its form. The content & metadata of your website are in structured markdown files, while various other files constitute the theme, specifying how to transform that content & metadata into HTML pages. You keep these various markdown (.md), YAML (.yml), HTML, and CSS files in a public GitHub repository. Each time you commit and push an update to the repository, the [GitHub pages](https://pages.github.com/) service creates static HTML pages based on these files, which are hosted on GitHub's servers free of charge.
+<h3>University of Tennessee </h3>
+From fall 2016 to spring 2018, I worked as an undergraduate research assistant. I worked on molecular dynamics simulations and data analysis. I also performed Brownian dynamics simulations of flowing polymer solutions, and I extracted solution properties from the resulting data. 
 
-Many of the features of dynamic content management systems (like Wordpress) can be achieved in this fashion, using a fraction of the computational resources and with far less vulnerability to hacking and DDoSing. You can also modify the theme to your heart's content without touching the content of your site. If you get to a point where you've broken something in Jekyll/HTML/CSS beyond repair, your markdown files describing your talks, publications, etc. are safe. You can rollback the changes or even delete the repository and start over -- just be sure to save the markdown files! Finally, you can also write scripts that process the structured data on the site, such as [this one](https://github.com/academicpages/academicpages.github.io/blob/master/talkmap.ipynb) that analyzes metadata in pages about talks to display [a map of every location you've given a talk](https://academicpages.github.io/talkmap.html).
+<img src="https://cnedwards.github.io/images/molecule2.png?raw=true" alt="Photo" style="width: 450px;"/> 
+<img src="https://cnedwards.github.io/images/phase_detection.png?raw=true" alt="Photo" style="width: 450px;"/> 
 
-https://riss.ri.cmu.edu/wp-content/uploads/2019/08/2019-RISS-poster-EDWARDS-Carl-DUBRAWSKI.pdf
+[Video](https://cnedwards.github.io/files/Nemd-1-10-100-1000-1.mp4)
 
+<h3>Oak Ridge National Lab </h3>
+I interned at ORNL during the summers of 2017 and 2018 through the HERE and DOE SULI programs respectively. I worked on optimizing phase values in continuous subarrayed radar arrays using metaheuristic techniques like genetic algorithms and simulated annealing. 
 
+<img src="https://cnedwards.github.io/images/array_phase_values.png?raw=true" alt="Photo" style="width: 450px;"/> 
+
+<h3>University of Zurich </h3>
+During Fall 2018, I studied abroad at the University of Zurich in Zurich, Switzerland. While I was there, I worked on creating joint embeddings between images and knowledge graphs. My project report is [here](https://cnedwards.github.io/files/studyabroad_report.pdf).
+
+<img src="https://cnedwards.github.io/images/alps.jpg?raw=true" alt="Photo" style="width: 450px;"/> 
+
+<h3>Carnegie Mellon University </h3>
+
+During summer 2019, I worked at CMU as a Robotics Institute Summer Scholar. I conducted research in the Auton Lab with Dr. Dubrawski working on detecting organization in online escort advertisements. I used several similarity measures using things like fastText word embeddings, face recognition, and others. 
+
+<img src="https://cnedwards.github.io/files/name_phone.png?raw=true" alt="Photo" style="width: 450px;"/> 
 
 Publications, Posters, etc.
 ======
-Lorem Ipsum
+
+<h4>Journal Article</h4>
+
+[In-plane and out-of-plane rotational motion of individual chain molecules in steady shear flow of polymer melts and solutions, C.N. Edwards, M.H. Nafar Sefiddashti, B.J. Edwards, and B. Khomami, <i>J. Mol. Graph. Model.</i>, 81, 184-196 (2018).](https://www.sciencedirect.com/science/article/pii/S1093326318300470)
+
+<h4>Presentations </h4>
+
+Out-of-plane rotational motion in shear flow of polymer melts and solutions, M.H. Nafar Sefiddashti, C.N. Edwards, B.J. Edwards, and B. Khomami, The Society of Rheology 89th Annual Meeting, Denver, CO, October 8-12, 2017. 
+ 
+<h4>Posters </h4>
+
+[Edwards C.N., Wertz A., Dubrawski A.W., Using Similarity Measures to Detect Organizations in Online Escort Advertisements. Poster presented at: RISS 2019 Poster Session; 2019 August 14; Pittsburgh, PA.](https://riss.ri.cmu.edu/wp-content/uploads/2019/08/2019-RISS-poster-EDWARDS-Carl-DUBRAWSKI.pdf)
+
+[Edwards C.N., Daniel B., Beam Broadening of Subarrayed Radar Arrays Utilizing Various Global Optimization Techniques. Poster presented at: ORNL 2018 Undergraduate Research Poster Session; 2018 August 1; Oak Ridge, TN](https://cnedwards.github.io/files/ORNL_SULI_Poster.pdf)
+
 
 RISS Journal link coming soon
 
-Awards and Honors
+
+
+Selected Awards and Honors
 ======
 [<strong>Goldwater Scholar</strong>](https://goldwater.scholarsapply.org/)
 
@@ -65,8 +97,8 @@ Some of my activities.
 
 UTK Machine Learning Club
 
-  <img src="https://cnedwards.github.io/images/utkml.jpg?raw=true" alt="Photo" style="width: 450px;"/> 
-  
+<img src="https://cnedwards.github.io/images/utkml.jpg?raw=true" alt="Photo" style="width: 450px;"/> 
+
 HackUTK
 
 Some Projects
@@ -75,46 +107,49 @@ Some Projects
 
 Future project on learning multiple tasks with one model for reinforcement learning coming soon
 
-Fashion MNIST Investigation
+[Fashion MNIST Investigation](https://cnedwards.github.io/files/Edwards_Yen_Final_Project.pdf)
 
 Neural networks looking for food (old project)
 
+[<img src="https://cnedwards.github.io/images/nn.jpg?raw=true" alt="Photo" style="width: 450px;"/> ](https://cnedwards.github.io/files/neuralnets_video.mp4)
+
+<!---
 Maybe not these:
 Can put reports from CS420 C:\Users\Carl\Desktop\College\CS420
 ECE 471 Projects at C:\Users\Carl\Desktop\College\ECE471
 Maybe some system programming from CS360 or ??
 
-VR Phone App
 
-First Robotics (link that video maybe)
+VR Phone App 
 
-[Minecraft Bukkit mod (pre 1.7)](https://dev.bukkit.org/projects/basicspleef)
+Can add GUI IRC client
+Sudoku solver
+???
+-->
 
+[old Minecraft Bukkit mod (pre 1.7)](https://dev.bukkit.org/projects/basicspleef)
+
+<!---
   <img src="https://cnedwards.github.io/images/Help.png?raw=true" alt="Photo" style="width: 450px;"/> 
-  
-Some fun stuff I've done
+-->  
+
+Some fun activities I've done
 ======
 Martial Arts
 
 Classical Singing
 
-Other activities: (?)
-
-Tennis
-
-Table Tennis
-
-Cross Country
+<img src="https://cnedwards.github.io/images/singing.JPG?raw=true" alt="Photo" style="width: 450px;"/> 
 
 Governor's School for Computational Physics
 
-Science Olympiad (?)
+<img src="https://cnedwards.github.io/images/gov_school.JPG?raw=true" alt="Photo" style="width: 450px;"/> 
 
-Math Club (?)
+First Robotics
 
-Other spanish stuff??
+[<img src="https://cnedwards.github.io/images/robotics.PNG?raw=true" alt="Photo" style="width: 450px;"/> ](https://cnedwards.github.io/files/IMG_2924.3gp)
 
-Volunteering (??)
+Volunteering
 ======
 Volunteering after Gatlinburg fires to sort donations
 
