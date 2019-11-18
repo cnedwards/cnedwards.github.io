@@ -25,8 +25,8 @@ Research
 <h3>University of Tennessee </h3>
 From fall 2016 to spring 2018, I worked as an undergraduate research assistant. I worked on molecular dynamics simulations and data analysis. I also performed Brownian dynamics simulations of flowing polymer solutions, and I extracted solution properties from the resulting data. 
 
-<img src="https://cnedwards.github.io/images/molecule2.png?raw=true" alt="Photo" style="width: 450px;"/> 
-<img src="https://cnedwards.github.io/images/phase_detection.png?raw=true" alt="Photo" style="width: 450px;"/> 
+<img src="https://cnedwards.github.io/images/molecule2.PNG?raw=true" alt="Photo" style="width: 450px;"/> 
+<img src="https://cnedwards.github.io/images/phase_detection.PNG?raw=true" alt="Photo" style="width: 450px;"/> 
 
 [Video](https://cnedwards.github.io/files/Nemd-1-10-100-1000-1.mp4)
 
@@ -38,13 +38,13 @@ I interned at ORNL during the summers of 2017 and 2018 through the HERE and DOE 
 <h3>University of Zurich </h3>
 During Fall 2018, I studied abroad at the University of Zurich in Zurich, Switzerland. While I was there, I worked on creating joint embeddings between images and knowledge graphs. My project report is [here](https://cnedwards.github.io/files/studyabroad_report.pdf).
 
-<img src="https://cnedwards.github.io/images/alps.jpg?raw=true" alt="Photo" style="width: 450px;"/> 
+<img src="https://cnedwards.github.io/images/alps.jpeg?raw=true" alt="Photo" style="width: 450px;"/> 
 
 <h3>Carnegie Mellon University </h3>
 
 During summer 2019, I worked at CMU as a Robotics Institute Summer Scholar. I conducted research in the Auton Lab with Dr. Dubrawski working on detecting organization in online escort advertisements. I used several similarity measures using things like fastText word embeddings, face recognition, and others. 
 
-<img src="https://cnedwards.github.io/files/name_phone.png?raw=true" alt="Photo" style="width: 450px;"/> 
+<img src="https://cnedwards.github.io/files/name_phone.png?raw=true" alt="Photo" style="width: 1000px;"/> 
 
 Publications, Posters, etc.
 ======
@@ -75,7 +75,7 @@ Selected Awards and Honors
 
 Min Kao Scholar
 
-  <img src="https://cnedwards.github.io/images/kansas_trip.jpg?raw=true" alt="Photo" style="width: 450px;"/> 
+  <img src="https://cnedwards.github.io/images/kansas_trip.png?raw=true" alt="Photo" style="width: 450px;"/> 
 
 
 Outstanding Computer Science Junior
