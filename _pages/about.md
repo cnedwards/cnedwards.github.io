@@ -16,7 +16,7 @@ redirect_from:
 
 Hi! My name is Carl Edwards and I'm from Knoxville, Tennessee. I'm a senior in computer science at the University of Tennessee, Knoxville. Additionally, I'm double majoring in math. In the future, I'd like to pursue research in machine learning and AI. I believe that a critical next step in the development of machine learning will be the creation of models that can generalize well on multiple tasks and which learn from multiple contrasting yet complementary domains of data. This is why I've developed an interest in the areas of machine learning that incorporate multiple modalities of data, such as multiview learning or joint embeddings for different data types (like text or knowledge graphs). Additionally, I am interested in multi-task and transfer learning as well. During my undergraduate career, I've had the opportunity to work on some exciting research projects!
 
-<img src="https://cnedwards.github.io/images/profile.gif?raw=true" alt="Photo" style="width: 366px;"/> 
+
 
 Resume
 ======
@@ -101,9 +101,12 @@ Some of my activities.
 
 UTK Machine Learning Club
 
-<img src="https://cnedwards.github.io/images/utkml.jpg?raw=true" alt="Photo" style="width: 450px;"/> 
+<p float="left">
+<img src="https://cnedwards.github.io/images/utkml.jpg?raw=true" alt="Photo" style="width: 350px;"/> 
+<img src="https://cnedwards.github.io/images/utkml2.jpg?raw=true" alt="Photo" style="width: 350px;"/> 
+</p>
 
-<img src="https://cnedwards.github.io/images/utkml2.png?raw=true" alt="Photo" style="width: 450px;"/> 
+<img src="https://cnedwards.github.io/images/profile.gif?raw=true" alt="Photo" style="width: 300px;"/> 
 
 HackUTK
 
@@ -162,9 +165,11 @@ FIRST Robotics
 Volunteering
 ======
 Volunteering at Salvation Army food pantry
+
 <img src="https://cnedwards.github.io/images/tomatos.jpeg?raw=true" alt="Photo" style="width: 400px;"/> 
 
 Volunteering at Ijams River Rescue
+
 <img src="https://cnedwards.github.io/images/river_.png?raw=true" alt="Photo" style="width: 400px;"/> 
 
 Volunteering at KARM
