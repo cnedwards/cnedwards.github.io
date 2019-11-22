@@ -77,7 +77,7 @@ Selected Awards and Honors
 [<strong>Goldwater Scholar</strong>](https://news.utk.edu/2019/05/14/two-engineering-students-win-goldwater-scholarships/)
 
 
-Min Kao Scholar
+Min Kao Scholar (2018, 2019)
 
   <img src="https://cnedwards.github.io/images/kansas_trip.png?raw=true" alt="Photo" style="width: 450px;"/> 
 
