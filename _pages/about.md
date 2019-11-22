@@ -16,6 +16,8 @@ redirect_from:
 
 Hi! My name is Carl Edwards and I'm from Knoxville, Tennessee. I'm a senior in computer science at the University of Tennessee, Knoxville. Additionally, I'm double majoring in math. In the future, I'd like to pursue research in machine learning and AI. I believe that a critical next step in the development of machine learning will be the creation of models that can generalize well on multiple tasks and which learn from multiple contrasting yet complementary domains of data. This is why I've developed an interest in the areas of machine learning that incorporate multiple modalities of data, such as multiview learning or joint embeddings for different data types (like text or knowledge graphs). Additionally, I am interested in multi-task and transfer learning as well. During my undergraduate career, I've had the opportunity to work on some exciting research projects!
 
+<img src="https://cnedwards.github.io/images/profile.gif?raw=true" alt="Photo" style="width: 366px;"/> 
+
 Resume
 ======
 See my resume attached [here](https://cnedwards.github.io/files/Edwards_resume.pdf)
@@ -53,6 +55,8 @@ Publications, Posters, etc.
 
 [In-plane and out-of-plane rotational motion of individual chain molecules in steady shear flow of polymer melts and solutions, C.N. Edwards, M.H. Nafar Sefiddashti, B.J. Edwards, and B. Khomami, <i>J. Mol. Graph. Model.</i>, 81, 184-196 (2018).](https://www.sciencedirect.com/science/article/pii/S1093326318300470)
 
+An article from my experience at ORNL should be coming in the spring.
+
 <h4>Presentations </h4>
 
 Out-of-plane rotational motion in shear flow of polymer melts and solutions, M.H. Nafar Sefiddashti, C.N. Edwards, B.J. Edwards, and B. Khomami, The Society of Rheology 89th Annual Meeting, Denver, CO, October 8-12, 2017. 
@@ -70,7 +74,7 @@ RISS Journal link coming soon
 
 Selected Awards and Honors
 ======
-[<strong>Goldwater Scholar</strong>](https://goldwater.scholarsapply.org/)
+[<strong>Goldwater Scholar</strong>](https://news.utk.edu/2019/05/14/two-engineering-students-win-goldwater-scholarships/)
 
 
 Min Kao Scholar
@@ -98,6 +102,8 @@ Some of my activities.
 UTK Machine Learning Club
 
 <img src="https://cnedwards.github.io/images/utkml.jpg?raw=true" alt="Photo" style="width: 450px;"/> 
+
+<img src="https://cnedwards.github.io/images/utkml2.png?raw=true" alt="Photo" style="width: 450px;"/> 
 
 HackUTK
 
@@ -136,6 +142,10 @@ Sudoku solver
 Some fun activities I've done
 ======
 Martial Arts
+<p float="left">
+  <img src="/images/tkd_s.jpeg" width="200" />
+  <img src="/images/tkd_m.jpeg" width="200" /> 
+</p>
 
 Classical Singing
 
@@ -151,10 +161,12 @@ FIRST Robotics
 
 Volunteering
 ======
-Volunteering after Gatlinburg fires to sort donations
-
 Volunteering at Salvation Army food pantry
+<img src="https://cnedwards.github.io/images/tomatos.jpeg?raw=true" alt="Photo" style="width: 400px;"/> 
+
+Volunteering at Ijams River Rescue
+<img src="https://cnedwards.github.io/images/river_.png?raw=true" alt="Photo" style="width: 400px;"/> 
 
 Volunteering at KARM
 
-Volunteering at Ijams River Rescue
+Volunteering after Gatlinburg fires to sort donations
