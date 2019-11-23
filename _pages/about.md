@@ -99,16 +99,17 @@ Activities
 ======
 Some of my activities.
 
-<h5>UTK Machine Learning Club</h5>
+<h3>UTK Machine Learning Club</h3>
 
 <p float="left">
 <img src="https://cnedwards.github.io/images/utkml.jpg?raw=true" alt="Photo" style="width: 350px;"/> 
 <img src="https://cnedwards.github.io/images/utkml2.jpg?raw=true" alt="Photo" style="width: 350px;"/> 
 </p>
 Art competition entry using neural style transfer.
+
 <img src="https://cnedwards.github.io/images/profile.gif?raw=true" alt="Photo" style="width: 300px;"/> 
 
-<h5>HackUTK</h5>
+<h3>HackUTK</h3>
 
 Some Projects
 ======
