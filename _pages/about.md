@@ -57,6 +57,9 @@ Publications, Posters, etc.
 
 An article from my experience at ORNL should be coming in the spring.
 
+[Using Similarity Measures to Detect Organizations in Online Escort
+Advertisements, C. Edwards, A. Wertz, and A. Dubrawski, <i>Robotics Institute Summer Scholar’ Working Papers Journal</i>, 7, 43-49 (2019).](https://riss.ri.cmu.edu/wp-content/uploads/2019/11/2019-riss-final-journal-aA.pdf)
+
 <h4>Presentations </h4>
 
 Out-of-plane rotational motion in shear flow of polymer melts and solutions, M.H. Nafar Sefiddashti, C.N. Edwards, B.J. Edwards, and B. Khomami, The Society of Rheology 89th Annual Meeting, Denver, CO, October 8-12, 2017. 
@@ -66,9 +69,6 @@ Out-of-plane rotational motion in shear flow of polymer melts and solutions, M.H
 [Edwards C.N., Wertz A., Dubrawski A.W., Using Similarity Measures to Detect Organizations in Online Escort Advertisements. Poster presented at: RISS 2019 Poster Session; 2019 August 14; Pittsburgh, PA.](https://riss.ri.cmu.edu/wp-content/uploads/2019/08/2019-RISS-poster-EDWARDS-Carl-DUBRAWSKI.pdf)
 
 [Edwards C.N., Daniel B., Beam Broadening of Subarrayed Radar Arrays Utilizing Various Global Optimization Techniques. Poster presented at: ORNL 2018 Undergraduate Research Poster Session; 2018 August 1; Oak Ridge, TN](https://cnedwards.github.io/files/ORNL_SULI_Poster.pdf)
-
-
-RISS Journal link coming soon
 
 
 
