@@ -82,7 +82,7 @@ Min Kao Scholar (2018, 2019)
   <img src="https://cnedwards.github.io/images/kansas_trip.png?raw=true" alt="Photo" style="width: 450px;"/> 
 
 
-Outstanding Computer Science Junior
+[Outstanding Computer Science Junior 2018 (Sole recipient)](https://www.eecs.utk.edu/2018-gonzalez-family-awards-banquet-april-26-2018/)
 
   <img src="https://cnedwards.github.io/images/eecs_banquet.jpg?raw=true" alt="Photo" style="width: 450px;"/> 
 
@@ -115,7 +115,7 @@ Some Projects
 ======
 [Optimization of a hybrid electric vehicle energy management control parameters by metaheuristic methods](https://cnedwards.github.io/files/TeamE_Project%20Report_Final_05032018.pdf)
 
-Future project on learning multiple tasks with one model for reinforcement learning coming soon
+[Avoiding Catastrophic Forgetting in AI Safety Gridworld](https://cnedwards.github.io/files/Final_Project_Report_Edwards_Mathis.pdf)
 
 [Fashion MNIST Investigation](https://cnedwards.github.io/files/Edwards_Yen_Final_Project.pdf)
 
