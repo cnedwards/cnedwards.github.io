@@ -10,7 +10,7 @@ redirect_from:
 
 <!---
 <p align="center">
-  <img src="https://cnedwards.github.io/images/me.jpg?raw=true" alt="Photo" style="width: 450px;"/> 
+  <img src="https://cnedwards.com/images/me.jpg?raw=true" alt="Photo" style="width: 450px;"/> 
 </p>
 -->
 
@@ -20,33 +20,33 @@ Hi! My name is Carl Edwards, and I'm from Knoxville, Tennessee. I'm a senior in 
 
 Resume
 ======
-See my resume attached [here](https://cnedwards.github.io/files/Edwards_resume.pdf)
+See my resume attached [here](https://cnedwards.com/files/Edwards_resume.pdf)
 
 Research
 ======
 <h3>University of Tennessee </h3>
 From fall 2016 to spring 2018, I worked as an undergraduate research assistant. I worked on molecular dynamics simulations and data analysis. I also performed Brownian dynamics simulations of flowing polymer solutions, and I extracted solution properties from the resulting data. 
 
-<img src="https://cnedwards.github.io/images/molecule2.PNG?raw=true" alt="Photo" style="width: 450px;"/> 
-<img src="https://cnedwards.github.io/images/phase_detection.PNG?raw=true" alt="Photo" style="width: 450px;"/> 
+<img src="https://cnedwards.com/images/molecule2.PNG?raw=true" alt="Photo" style="width: 450px;"/> 
+<img src="https://cnedwards.com/images/phase_detection.PNG?raw=true" alt="Photo" style="width: 450px;"/> 
 
-[Video](https://cnedwards.github.io/files/Nemd-1-10-100-1000-1.mp4)
+[Video](https://cnedwards.com/files/Nemd-1-10-100-1000-1.mp4)
 
 <h3>Oak Ridge National Lab </h3>
 I interned at ORNL during the summers of 2017 and 2018 through the HERE and DOE SULI programs respectively. I worked on optimizing phase values in continuous subarrayed radar arrays using metaheuristic techniques like genetic algorithms and simulated annealing. 
 
-<img src="https://cnedwards.github.io/images/array_phase_values.png?raw=true" alt="Photo" style="width: 450px;"/> 
+<img src="https://cnedwards.com/images/array_phase_values.png?raw=true" alt="Photo" style="width: 450px;"/> 
 
 <h3>University of Zurich </h3>
-During Fall 2018, I studied abroad at the University of Zurich in Zurich, Switzerland. While I was there, I worked on creating joint embeddings between images and knowledge graphs. My project report is [here](https://cnedwards.github.io/files/studyabroad_report.pdf).
+During Fall 2018, I studied abroad at the University of Zurich in Zurich, Switzerland. While I was there, I worked on creating joint embeddings between images and knowledge graphs. My project report is [here](https://cnedwards.com/files/studyabroad_report.pdf).
 
-<img src="https://cnedwards.github.io/images/alps.jpeg?raw=true" alt="Photo" style="width: 450px;"/> 
+<img src="https://cnedwards.com/images/alps.jpeg?raw=true" alt="Photo" style="width: 450px;"/> 
 
 <h3>Carnegie Mellon University </h3>
 
 During summer 2019, I worked at CMU as a Robotics Institute Summer Scholar. I conducted research in the Auton Lab with Dr. Dubrawski working on detecting organization in online escort advertisements. I used several similarity measures using things like fastText word embeddings, face recognition, and others. 
 
-<img src="https://cnedwards.github.io/files/name_phone.png?raw=true" alt="Photo" style="width: 1000px;"/> 
+<img src="https://cnedwards.com/files/name_phone.png?raw=true" alt="Photo" style="width: 1000px;"/> 
 
 Publications, Posters, etc.
 ======
@@ -68,7 +68,7 @@ Out-of-plane rotational motion in shear flow of polymer melts and solutions, M.H
 
 [Edwards C.N., Wertz A., Dubrawski A.W., Using Similarity Measures to Detect Organizations in Online Escort Advertisements. Poster presented at: RISS 2019 Poster Session; 2019 August 14; Pittsburgh, PA.](https://riss.ri.cmu.edu/wp-content/uploads/2019/08/2019-RISS-poster-EDWARDS-Carl-DUBRAWSKI.pdf)
 
-[Edwards C.N., Daniel B., Beam Broadening of Subarrayed Radar Arrays Utilizing Various Global Optimization Techniques. Poster presented at: ORNL 2018 Undergraduate Research Poster Session; 2018 August 1; Oak Ridge, TN](https://cnedwards.github.io/files/ORNL_SULI_Poster.pdf)
+[Edwards C.N., Daniel B., Beam Broadening of Subarrayed Radar Arrays Utilizing Various Global Optimization Techniques. Poster presented at: ORNL 2018 Undergraduate Research Poster Session; 2018 August 1; Oak Ridge, TN](https://cnedwards.com/files/ORNL_SULI_Poster.pdf)
 
 
 
@@ -79,17 +79,17 @@ Selected Awards and Honors
 
 Min Kao Scholar (2018, 2019)
 
-  <img src="https://cnedwards.github.io/images/kansas_trip.png?raw=true" alt="Photo" style="width: 450px;"/> 
+  <img src="https://cnedwards.com/images/kansas_trip.png?raw=true" alt="Photo" style="width: 450px;"/> 
 
 
 [Outstanding Computer Science Junior 2018 (Sole recipient)](https://www.eecs.utk.edu/2018-gonzalez-family-awards-banquet-april-26-2018/)
 
-  <img src="https://cnedwards.github.io/images/eecs_banquet.jpg?raw=true" alt="Photo" style="width: 450px;"/> 
+  <img src="https://cnedwards.com/images/eecs_banquet.jpg?raw=true" alt="Photo" style="width: 450px;"/> 
 
 
 Recognition of Pi Mu Epsilon Tennessee Delta Chapter
 
-  <img src="https://cnedwards.github.io/images/pimu.jpg?raw=true" alt="Photo" style="width: 450px;"/> 
+  <img src="https://cnedwards.com/images/pimu.jpg?raw=true" alt="Photo" style="width: 450px;"/> 
 
 See other awards on my resume above.
 
@@ -102,26 +102,26 @@ Some of my activities.
 <h3>UTK Machine Learning Club</h3>
 
 <p float="left">
-<img src="https://cnedwards.github.io/images/utkml.jpg?raw=true" alt="Photo" style="width: 350px;"/> 
-<img src="https://cnedwards.github.io/images/utkml2.jpg?raw=true" alt="Photo" style="width: 350px;"/> 
+<img src="https://cnedwards.com/images/utkml.jpg?raw=true" alt="Photo" style="width: 350px;"/> 
+<img src="https://cnedwards.com/images/utkml2.jpg?raw=true" alt="Photo" style="width: 350px;"/> 
 </p>
 Art competition entry using neural style transfer.
 
-<img src="https://cnedwards.github.io/images/profile.gif?raw=true" alt="Photo" style="width: 300px;"/> 
+<img src="https://cnedwards.com/images/profile.gif?raw=true" alt="Photo" style="width: 300px;"/> 
 
 <h3>HackUTK</h3>
 
 Some Projects
 ======
-[Optimization of a hybrid electric vehicle energy management control parameters by metaheuristic methods](https://cnedwards.github.io/files/TeamE_Project%20Report_Final_05032018.pdf)
+[Optimization of a hybrid electric vehicle energy management control parameters by metaheuristic methods](https://cnedwards.com/files/TeamE_Project%20Report_Final_05032018.pdf)
 
-[Avoiding Catastrophic Forgetting in AI Safety Gridworld](https://cnedwards.github.io/files/Final_Project_Report_Edwards_Mathis.pdf)
+[Avoiding Catastrophic Forgetting in AI Safety Gridworld](https://cnedwards.com/files/Final_Project_Report_Edwards_Mathis.pdf)
 
-[Fashion MNIST Investigation](https://cnedwards.github.io/files/Edwards_Yen_Final_Project.pdf)
+[Fashion MNIST Investigation](https://cnedwards.com/files/Edwards_Yen_Final_Project.pdf)
 
 Neural networks looking for food (old project)
 
-[<img src="https://cnedwards.github.io/images/nn.jpg?raw=true" alt="Photo" style="width: 450px;"/> ](https://cnedwards.github.io/files/neuralnets_video.mp4)
+[<img src="https://cnedwards.com/images/nn.jpg?raw=true" alt="Photo" style="width: 450px;"/> ](https://cnedwards.com/files/neuralnets_video.mp4)
 
 <!---
 Maybe not these:
@@ -140,7 +140,7 @@ Sudoku solver
 [old Minecraft Bukkit mod (pre 1.7)](https://dev.bukkit.org/projects/basicspleef)
 
 <!---
-  <img src="https://cnedwards.github.io/images/Help.png?raw=true" alt="Photo" style="width: 450px;"/> 
+  <img src="https://cnedwards.com/images/Help.png?raw=true" alt="Photo" style="width: 450px;"/> 
 -->  
 
 Some fun activities I've done
@@ -153,25 +153,25 @@ Martial Arts
 
 Classical Singing
 
-<img src="https://cnedwards.github.io/images/singing.JPG?raw=true" alt="Photo" style="width: 450px;"/> 
+<img src="https://cnedwards.com/images/singing.JPG?raw=true" alt="Photo" style="width: 450px;"/> 
 
 Governor's School for Computational Physics
 
-<img src="https://cnedwards.github.io/images/gov_school.JPG?raw=true" alt="Photo" style="width: 450px;"/> 
+<img src="https://cnedwards.com/images/gov_school.JPG?raw=true" alt="Photo" style="width: 450px;"/> 
 
 FIRST Robotics
 
-[<img src="https://cnedwards.github.io/images/robotics.PNG?raw=true" alt="Photo" style="width: 450px;"/> ](https://cnedwards.github.io/files/IMG_2924.3gp)
+[<img src="https://cnedwards.com/images/robotics.PNG?raw=true" alt="Photo" style="width: 450px;"/> ](https://cnedwards.com/files/IMG_2924.3gp)
 
 Volunteering
 ======
 Volunteering at Salvation Army food pantry
 
-<img src="https://cnedwards.github.io/images/tomatos.jpeg?raw=true" alt="Photo" style="width: 400px;"/> 
+<img src="https://cnedwards.com/images/tomatos.jpeg?raw=true" alt="Photo" style="width: 400px;"/> 
 
 Volunteering at Ijams River Rescue
 
-<img src="https://cnedwards.github.io/images/river_.png?raw=true" alt="Photo" style="width: 400px;"/> 
+<img src="https://cnedwards.com/images/river_.png?raw=true" alt="Photo" style="width: 400px;"/> 
 
 Volunteering at KARM
 
