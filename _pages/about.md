@@ -55,8 +55,6 @@ Publications, Posters, etc.
 
 [In-plane and out-of-plane rotational motion of individual chain molecules in steady shear flow of polymer melts and solutions, C.N. Edwards, M.H. Nafar Sefiddashti, B.J. Edwards, and B. Khomami, <i>J. Mol. Graph. Model.</i>, 81, 184-196 (2018).](https://www.sciencedirect.com/science/article/pii/S1093326318300470)
 
-An article from my experience at ORNL should be coming in the spring.
-
 [Using Similarity Measures to Detect Organizations in Online Escort
 Advertisements, C. Edwards, A. Wertz, and A. Dubrawski, <i>Robotics Institute Summer Scholar’ Working Papers Journal</i>, 7, 43-49 (2019).](https://riss.ri.cmu.edu/wp-content/uploads/2019/11/2019-riss-final-journal-aA.pdf)
 
