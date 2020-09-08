@@ -73,6 +73,9 @@ Out-of-plane rotational motion in shear flow of polymer melts and solutions, M.H
 
 Selected Awards and Honors
 ======
+
+[Saburo Muroga Endowed Fellowship](https://cs.illinois.edu/about/awards/graduate-fellowships-awards/saburo-muroga-endowed-fellowship)
+
 [<strong>Goldwater Scholar</strong>](https://news.utk.edu/2019/05/14/two-engineering-students-win-goldwater-scholarships/)
 
 
