@@ -14,12 +14,12 @@ redirect_from:
 </p>
 -->
 
-Hi! My name is Carl Edwards, and I'm from Knoxville, Tennessee. I'm a PhD student in computer science at the University of Illinois at Urbana-Champaign where I'm advised by Professor Heng Ji. I recently completed my bachelor's degree at the University of Tennessee, Knoxville where I majored in CS and math. I believe that a critical next step in the development of AI will be the creation of models that can generalize well on multiple tasks and which learn from multiple contrasting yet complementary domains of data. This is why I've developed an interest in the areas of machine learning that incorporate multiple modalities and domains of data. I've had the opportunity to work on a variety of exciting research projects!
+Hi! My name is Carl Edwards, and I'm from Knoxville, Tennessee. I'm a PhD student in computer science at the University of Illinois at Urbana-Champaign where I'm advised by Professor Heng Ji. I completed my bachelor's degree at the University of Tennessee, Knoxville in May 2020 where I majored in CS and math. I believe that a critical next step in the development of AI will be the creation of models that can generalize well on multiple tasks and which learn from multiple contrasting yet complementary domains of data. This is why I've developed an interest in leveraging multiple modalities and domains of data centered around language. I've had the opportunity to work on a variety of exciting research projects!
 
 
 Resume
 ======
-See my (probably outdated) resume attached [here](https://cnedwards.com/files/Edwards_resume.pdf)
+See my (possibly outdated) resume attached [here](https://cnedwards.com/files/Edwards_resume.pdf)
 
 Research
 ======
