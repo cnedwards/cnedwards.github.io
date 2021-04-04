@@ -121,7 +121,7 @@ Art competition entry using neural style transfer.
 
 <h3>HackUTK</h3>
 
-Some Projects
+Some Old Projects
 ======
 [Optimization of a hybrid electric vehicle energy management control parameters by metaheuristic methods](https://cnedwards.com/files/TeamE_Project%20Report_Final_05032018.pdf)
 
@@ -129,7 +129,7 @@ Some Projects
 
 [Fashion MNIST Investigation](https://cnedwards.com/files/Edwards_Yen_Final_Project.pdf)
 
-Neural networks looking for food (old project)
+Neural networks looking for food (very old project)
 
 [<img src="https://cnedwards.com/images/nn.jpg?raw=true" alt="Photo" style="width: 450px;"/> ](https://cnedwards.com/files/neuralnets_video.mp4)
 
