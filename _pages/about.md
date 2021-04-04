@@ -14,18 +14,26 @@ redirect_from:
 </p>
 -->
 
-Hi! My name is Carl Edwards, and I'm from Knoxville, Tennessee. I'm a PhD student in computer science at the University of Illinois at Urbana-Champaign. I recently completed my bachelor's degree at the University of Tennessee, Knoxville where I majored in CS and math. In the future, I believe that a critical next step in the development of machine learning will be the creation of models that can generalize well on multiple tasks and which learn from multiple contrasting yet complementary domains of data. This is why I've developed an interest in the areas of machine learning that incorporate multiple modalities and domains of data, such as multiview learning or joint embeddings for different data types (like text or knowledge graphs). Additionally, I am interested in multi-task and transfer learning as well as NLP. I've had the opportunity to work on a variety of exciting research projects!
+Hi! My name is Carl Edwards, and I'm from Knoxville, Tennessee. I'm a PhD student in computer science at the University of Illinois at Urbana-Champaign where I'm advised by Professor Heng Ji. I recently completed my bachelor's degree at the University of Tennessee, Knoxville where I majored in CS and math. I believe that a critical next step in the development of AI will be the creation of models that can generalize well on multiple tasks and which learn from multiple contrasting yet complementary domains of data. This is why I've developed an interest in the areas of machine learning that incorporate multiple modalities and domains of data. I've had the opportunity to work on a variety of exciting research projects!
 
 
 Resume
 ======
-See my resume attached [here](https://cnedwards.com/files/Edwards_resume.pdf)
+See my (probably outdated) resume attached [here](https://cnedwards.com/files/Edwards_resume.pdf)
 
 Research
 ======
+
+<h3>University of Illinois </h3>
+I've been working with the [Molecule Maker Lab Institute](https://moleculemaker.org/). More details will come soon. 
+
+<img src="https://pubchem.ncbi.nlm.nih.gov/image/imgsrv.fcgi?cid=151004&t=s" alt="Photo" style="width: 150px;"/> 
+
+
+
 <h3>Carnegie Mellon University </h3>
 
-During summer 2019, I worked at CMU as a Robotics Institute Summer Scholar. I conducted research in the Auton Lab with Dr. Dubrawski working on detecting organization in online escort advertisements. I used several similarity measures using things like fastText word embeddings, face recognition, and others. 
+During summer 2019, I worked at CMU as a Robotics Institute Summer Scholar. I conducted research in the Auton Lab with Dr. Dubrawski working on detecting organization in online escort advertisements. I used several similarity measures using tools like fastText word embeddings, face recognition, and others. 
 
 <img src="https://cnedwards.com/files/name_phone.png?raw=true" alt="Photo" style="width: 1000px;"/> 
 
