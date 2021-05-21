@@ -14,12 +14,16 @@ redirect_from:
 </p>
 -->
 
-Hi! My name is Carl Edwards, and I'm from Knoxville, Tennessee. I'm a PhD student in computer science at the University of Illinois at Urbana-Champaign where I'm advised by Professor Heng Ji. I completed my bachelor's degree at the University of Tennessee, Knoxville in May 2020 where I majored in CS and math. I believe that a critical next step in the development of AI will be the creation of models that can generalize well on multiple tasks and which learn from multiple contrasting yet complementary domains of data. This is why I've developed an interest in leveraging multiple modalities and domains of data centered around language. I've had the opportunity to work on a variety of exciting research projects!
+Hi! My name is Carl Edwards, and I'm from Knoxville, Tennessee. I'm a PhD student in computer science at the University of Illinois at Urbana-Champaign where I'm advised by [Professor Heng Ji](http://blender.cs.illinois.edu/hengji.html). I completed my bachelor's degree at the University of Tennessee, Knoxville in May 2020 where I majored in CS and math. Generally, I'm interested 
+#I believe that a critical next step in the development of AI will be the creation of 
+in models that can generalize well on multiple tasks and which learn from multiple contrasting yet complementary domains of data. Specifically, I'm interested in leveraging multiple modalities and domains of data centered around language. My research interests cover information extraction, information retrieval, natural language processing, text mining, data mining, transfer learning, and multi-task learning. I'm currently working on projects related to chemistry literature, which provides an exciting testbed for these areas. 
+
+In the past, I've had the opportunity to work on a variety of exciting research projects!
 
 
 Resume
 ======
-See my (possibly outdated) resume attached [here](https://cnedwards.com/files/Edwards_resume.pdf)
+See my (possibly outdated) resume attached [here.](https://cnedwards.com/files/Edwards_resume.pdf)
 
 Research
 ======
