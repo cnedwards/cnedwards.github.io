@@ -199,5 +199,7 @@ NSF Molecule Maker Laboratory Institute – Student and Postdoc Council Educatio
 Activities Co-Chair
 
 Presentations to High School Students:
+
 o Summer 2019: Presentation on “Detecting Human Trafficking Organizations” with AI4All@CMU
+
 o April 2021: Illinois CS Sail course on “Learning Word Representations
