@@ -175,6 +175,11 @@ FIRST Robotics
 
 [<img src="https://cnedwards.com/images/robotics.PNG?raw=true" alt="Photo" style="width: 450px;"/> ](https://cnedwards.com/files/IMG_2924.3gp)
 
+Birdwatching
+<img src="https://cnedwards.com/images/indigo.jpg?raw=true" alt="Photo" style="width: 450px;"/> 
+
+
+
 Volunteering
 ======
 Volunteering at Salvation Army food pantry
@@ -188,3 +193,10 @@ Volunteering at Ijams River Rescue
 Volunteering at KARM
 
 Volunteering after Gatlinburg fires to sort donations
+
+NSF Molecule Maker Laboratory Institute – Student and Postdoc Council Educational & Outreach 
+Activities Co-Chair
+
+Presentations to High School Students:
+o Summer 2019: Presentation on “Detecting Human Trafficking Organizations” with AI4All@CMU
+o April 2021: Illinois CS Sail course on “Learning Word Representations
