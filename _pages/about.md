@@ -176,6 +176,7 @@ FIRST Robotics
 [<img src="https://cnedwards.com/images/robotics.PNG?raw=true" alt="Photo" style="width: 450px;"/> ](https://cnedwards.com/files/IMG_2924.3gp)
 
 Birdwatching
+
 <img src="https://cnedwards.com/images/indigo.jpg?raw=true" alt="Photo" style="width: 450px;"/> 
 
 
