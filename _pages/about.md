@@ -47,7 +47,7 @@ During Fall 2018, I studied abroad at the University of Zurich in Zurich, Switze
 <h3>Oak Ridge National Lab </h3>
 I interned at ORNL during the summers of 2017 and 2018 through the HERE and DOE SULI programs respectively. I worked on optimizing phase values in continuous subarrayed radar arrays using metaheuristic techniques like genetic algorithms and simulated annealing. 
 
-<img src="https://cnedwards.com/images/array_phase_values.png?raw=true" alt="Photo" style="width: 450px;"/> 
+<img src="https://cnedwards.com/images/array_phase_values.png?raw=true" alt="Optimized radar array. Note the cyclic behavior of the phase values." style="width: 450px;"/> 
 
 
 <h3>University of Tennessee </h3>
