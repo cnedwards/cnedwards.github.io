@@ -105,7 +105,20 @@ Recognition of Pi Mu Epsilon Tennessee Delta Chapter
 
 See other awards on my resume above.
 
+Service
+======
+NSF Molecule Maker Laboratory Institute – Student and Postdoc Council Educational & Outreach 
+Activities Co-Chair
 
+Presentations to High School Students:
+
+o Summer 2019: Presentation on “Detecting Human Trafficking Organizations” with AI4All@CMU
+
+o April 2021: Illinois CS Sail course on “Learning Word Representations
+
+Reviewer: 
+
+ACL-IJCNLP Demo Track 2021
 
 Activities
 ======
@@ -194,16 +207,3 @@ Volunteering at Ijams River Rescue
 Volunteering at KARM
 
 Volunteering after Gatlinburg fires to sort donations
-
-NSF Molecule Maker Laboratory Institute – Student and Postdoc Council Educational & Outreach 
-Activities Co-Chair
-
-Presentations to High School Students:
-
-o Summer 2019: Presentation on “Detecting Human Trafficking Organizations” with AI4All@CMU
-
-o April 2021: Illinois CS Sail course on “Learning Word Representations
-
-Reviewer: 
-
-ACL-IJCNLP Demo Track 2021
