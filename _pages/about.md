@@ -27,7 +27,7 @@ Research
 ======
 
 <h3>University of Illinois </h3>
-I've been working with the [Molecule Maker Lab Institute](https://moleculemaker.org/). More details will come soon after double-blind review. 
+I've been working with the [Molecule Maker Lab Institute](https://moleculemaker.org/). More details under double-blind review. 
 
 <img src="https://pubchem.ncbi.nlm.nih.gov/image/imgsrv.fcgi?cid=151004&t=s" alt="Photo" style="width: 150px;"/> 
 
