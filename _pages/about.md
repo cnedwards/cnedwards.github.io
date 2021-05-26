@@ -119,21 +119,9 @@ Reviewer:
 
 ACL-IJCNLP Demo Track 2021
 
-Activities
-======
-Some of my activities.
-
-<h3>UTK Machine Learning Club</h3>
-
-<p float="left">
-<img src="https://cnedwards.com/images/utkml.jpg?raw=true" alt="Photo" style="width: 350px;"/> 
-<img src="https://cnedwards.com/images/utkml2.jpg?raw=true" alt="Photo" style="width: 350px;"/> 
-</p>
-Art competition entry using neural style transfer.
-
-<img src="https://cnedwards.com/images/profile.gif?raw=true" alt="Photo" style="width: 300px;"/> 
-
-<h3>HackUTK</h3>
+#Activities
+#======
+#Some of my activities.
 
 Some Old Projects
 ======
@@ -169,6 +157,19 @@ Sudoku solver
 
 Some fun activities I've done
 ======
+
+<h3>UTK Machine Learning Club</h3>
+
+<p float="left">
+<img src="https://cnedwards.com/images/utkml.jpg?raw=true" alt="Photo" style="width: 350px;"/> 
+<img src="https://cnedwards.com/images/utkml2.jpg?raw=true" alt="Photo" style="width: 350px;"/> 
+</p>
+Art competition entry using neural style transfer.
+
+<img src="https://cnedwards.com/images/profile.gif?raw=true" alt="Photo" style="width: 300px;"/> 
+
+<h3>HackUTK</h3>
+
 Martial Arts
 <p float="left">
   <img src="/images/tkd_s.jpeg" width="200" />
