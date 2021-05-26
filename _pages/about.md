@@ -119,9 +119,12 @@ Reviewer:
 
 ACL-IJCNLP Demo Track 2021
 
-#Activities
-#======
-#Some of my activities.
+<!---
+Activities
+======
+Some of my activities.
+-->
+
 
 Some Old Projects
 ======
