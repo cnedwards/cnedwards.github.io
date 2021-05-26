@@ -113,7 +113,7 @@ Presentations to High School Students:
 
 o Summer 2019: Presentation on “Detecting Human Trafficking Organizations” with AI4All@CMU
 
-o April 2021: Illinois CS Sail course on “Learning Word Representations
+o April 2021: Illinois CS Sail course on “Learning Word Representations"
 
 Reviewer: 
 
