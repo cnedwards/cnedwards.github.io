@@ -134,7 +134,10 @@ Some Old Projects
 
 [Fashion MNIST Investigation](https://cnedwards.com/files/Edwards_Yen_Final_Project.pdf)
 
-Neural networks looking for food (very old project)
+High School Projects
+====
+
+Neural networks looking for food 
 
 [<img src="https://cnedwards.com/images/nn.jpg?raw=true" alt="Photo" style="width: 450px;"/> ](https://cnedwards.com/files/neuralnets_video.mp4)
 
