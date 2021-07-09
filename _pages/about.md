@@ -128,7 +128,7 @@ Some of my activities.
 
 Some Random Projects
 ======
-Multimodal Molecule Reaction Prediction from Knowledge Graph of Reaction
+Multimodal Molecule Reaction Prediction from Knowledge Graph of Reactions
 [\[Proposal\]](https://cnedwards.com/files/Edwards_512_Project_Proposal.pdf)
 [\[Report\]](https://cnedwards.com/files/Edwards_512_Project_Final_Report.pdf)
 
