@@ -126,8 +126,12 @@ Some of my activities.
 -->
 
 
-Some Old Projects
+Some Random Projects
 ======
+Multimodal Molecule Reaction Prediction from Knowledge Graph of Reaction
+[\[Proposal\]](https://cnedwards.com/files/Edwards_512_Project_Proposal.pdf)
+[\[Report\]](https://cnedwards.com/files/Edwards_512_Project_Final_Report.pdf)
+
 [Optimization of a hybrid electric vehicle energy management control parameters by metaheuristic methods](https://cnedwards.com/files/TeamE_Project%20Report_Final_05032018.pdf)
 
 [Avoiding Catastrophic Forgetting in AI Safety Gridworld](https://cnedwards.com/files/Final_Project_Report_Edwards_Mathis.pdf)
