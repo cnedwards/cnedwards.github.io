@@ -63,9 +63,9 @@ Publications, Posters, etc.
 
 <h4> Conference </h4>
 
-[Kevin Ros*, Carl Edwards*, Heng Ji, and ChengXiang Zhai. "Team Skeletor at Touché 2021: Argument Retrieval and Visualization for Controversial Questions." <i>CLEF (Working Notes)</i>, 2441-2454. 2021.](http://ceur-ws.org/Vol-2936/paper-218.pdf)
+[Kevin Ros\*, Carl Edwards\*, Heng Ji, and ChengXiang Zhai. "Team Skeletor at Touché 2021: Argument Retrieval and Visualization for Controversial Questions." <i>CLEF (Working Notes)</i>, 2441-2454. 2021.](http://ceur-ws.org/Vol-2936/paper-218.pdf)
 
-* - equal contribution
+\* - equal contribution
 
 <h4>Journal Article</h4>
 
