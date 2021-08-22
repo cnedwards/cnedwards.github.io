@@ -86,7 +86,7 @@ Out-of-plane rotational motion in shear flow of polymer melts and solutions, M.H
 
 <h4> Other </h4>
 
-Daniel, Barry, Carl Edwards, and Adam Anderson. "Phase-Only Beam Broadening of Contiguous Uniform Subarrayed Arrays Utilizing Three Metaheuristic Global Optimization Techniques." arXiv preprint [arXiv:2009.06123 (2020).](https://arxiv.org/pdf/2009.06123.pdf)
+[Daniel, Barry, Carl Edwards, and Adam Anderson. "Phase-Only Beam Broadening of Contiguous Uniform Subarrayed Arrays Utilizing Three Metaheuristic Global Optimization Techniques." arXiv preprint arXiv:2009.06123 (2020).](https://arxiv.org/pdf/2009.06123.pdf)
 
 
 
