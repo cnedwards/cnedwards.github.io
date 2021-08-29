@@ -87,10 +87,12 @@ Kevin Ros\*, Carl Edwards\*, Heng Ji, and ChengXiang Zhai
 <h4>Journal Article</h4>
 
 In-plane and out-of-plane rotational motion of individual chain molecules in steady shear flow of polymer melts and solutions, C.N. Edwards, M.H. Nafar Sefiddashti, B.J. Edwards, and B. Khomami, <i>J. Mol. Graph. Model.</i>, 81, 184-196 (2018).
+
 \[[link](https://www.sciencedirect.com/science/article/pii/S1093326318300470)\]
 
 Using Similarity Measures to Detect Organizations in Online Escort
 Advertisements, C. Edwards, A. Wertz, and A. Dubrawski, <i>Robotics Institute Summer Scholar’ Working Papers Journal</i>, 7, 43-49 (2019).
+
 \[[pdf](https://riss.ri.cmu.edu/wp-content/uploads/2019/11/2019-riss-final-journal-aA.pdf)\]
 
 <h4>Presentations </h4>
@@ -100,9 +102,11 @@ Out-of-plane rotational motion in shear flow of polymer melts and solutions, M.H
 <h4>Posters </h4>
 
 Edwards C., Zhai CX., Ji H., Text2Mol: Cross-modal Molecular Retrieval with Natural Language Queries. Poster presented at: Molecule Maker Lab Institute Retreat 2021; 2021 August 2; Urbana, IL
+
 \[[pdf](https://cnedwards.com/files/text2mol_8_2_poster.pdf)\]
 
 Edwards C.N., Wertz A., Dubrawski A.W., Using Similarity Measures to Detect Organizations in Online Escort Advertisements. Poster presented at: RISS 2019 Poster Session; 2019 August 14; Pittsburgh, PA.
+
 \[[pdf](https://riss.ri.cmu.edu/wp-content/uploads/2019/08/2019-RISS-poster-EDWARDS-Carl-DUBRAWSKI.pdf)
 
 Edwards C.N., Daniel B., Beam Broadening of Subarrayed Radar Arrays Utilizing Various Global Optimization Techniques. Poster presented at: ORNL 2018 Undergraduate Research Poster Session; 2018 August 1; Oak Ridge, TN
@@ -111,7 +115,9 @@ Edwards C.N., Daniel B., Beam Broadening of Subarrayed Radar Arrays Utilizing Va
 
 <h4> Other </h4>
 
-[Daniel, Barry, Carl Edwards, and Adam Anderson. "Phase-Only Beam Broadening of Contiguous Uniform Subarrayed Arrays Utilizing Three Metaheuristic Global Optimization Techniques." arXiv preprint arXiv:2009.06123 (2020).](https://arxiv.org/pdf/2009.06123.pdf)
+Daniel, Barry, Carl Edwards, and Adam Anderson. "Phase-Only Beam Broadening of Contiguous Uniform Subarrayed Arrays Utilizing Three Metaheuristic Global Optimization Techniques." arXiv preprint arXiv:2009.06123 (2020).
+
+\[[pdf](https://arxiv.org/pdf/2009.06123.pdf)\]
 
 
 
