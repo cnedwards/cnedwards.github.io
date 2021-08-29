@@ -80,8 +80,6 @@ Kevin Ros\*, Carl Edwards\*, Heng Ji, and ChengXiang Zhai
 
 \[[pdf](http://ceur-ws.org/Vol-2936/paper-218.pdf)\]
 
-[//]: # (Kevin Ros\*, Carl Edwards\*, Heng Ji, and ChengXiang Zhai. "Team Skeletor at Touché 2021: Argument Retrieval and Visualization for Controversial Questions." <i>CLEF (Working Notes)</i>, 2441-2454. 2021.)
-
 \* - equal contribution
 
 <h4>Journal Article</h4>
@@ -107,7 +105,7 @@ Edwards C., Zhai CX., Ji H., Text2Mol: Cross-modal Molecular Retrieval with Natu
 
 Edwards C.N., Wertz A., Dubrawski A.W., Using Similarity Measures to Detect Organizations in Online Escort Advertisements. Poster presented at: RISS 2019 Poster Session; 2019 August 14; Pittsburgh, PA.
 
-\[[pdf](https://riss.ri.cmu.edu/wp-content/uploads/2019/08/2019-RISS-poster-EDWARDS-Carl-DUBRAWSKI.pdf)
+\[[pdf](https://riss.ri.cmu.edu/wp-content/uploads/2019/08/2019-RISS-poster-EDWARDS-Carl-DUBRAWSKI.pdf)\]
 
 Edwards C.N., Daniel B., Beam Broadening of Subarrayed Radar Arrays Utilizing Various Global Optimization Techniques. Poster presented at: ORNL 2018 Undergraduate Research Poster Session; 2018 August 1; Oak Ridge, TN
 
