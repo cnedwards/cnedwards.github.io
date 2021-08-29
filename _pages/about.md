@@ -30,9 +30,9 @@ Research
 I've been working with the [Molecule Maker Lab Institute](https://moleculemaker.org/) on integrating molecule and text information. My paper, Text2Mol, was published from this work at EMNLP2021.
 
 
-<img src="https://cnedwards.com/images/text2mol_task.PNG?raw=true" alt="Text2Mol Task" style="width: 1000px;"/> 
+<img src="https://cnedwards.com/images/text2mol_task.PNG?raw=true" alt="Text2Mol Task" style="width: 750px;"/> 
 
-<img src="https://cnedwards.com/images/correct_examples.PNG?raw=true" alt="Text2Mol Examples" style="width: 1000px;"/> 
+<img src="https://cnedwards.com/images/correct_examples.PNG?raw=true" alt="Text2Mol Examples" style="width: 750px;"/> 
 
 [Here](https://cnedwards.com/files/text2mol_8_2_poster.pdf) is the poster. 
 
