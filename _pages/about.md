@@ -70,11 +70,11 @@ Publications, Posters, etc.
 
 <h4> Conference </h4>
 
-**Text2Mol: Cross-Modal Molecular Retrieval with Natural Language Queries**  
+### Text2Mol: Cross-Modal Molecular Retrieval with Natural Language Queries  
 Carl Edwards, ChengXiang Zhai, and Heng Ji  
 *Proceedings of the 2021 Conference on Empirical Methods in Natural Language Processing (EMNLP). 2021.*
 
-**Team Skeletor at Touché 2021: Argument Retrieval and Visualization for Controversial Questions**  
+### Team Skeletor at Touché 2021: Argument Retrieval and Visualization for Controversial Questions  
 Kevin Ros\*, Carl Edwards\*, Heng Ji, and ChengXiang Zhai  
 *CLEF (Working Notes) 2441-2454. 2021.*  
 \[[pdf](http://ceur-ws.org/Vol-2936/paper-218.pdf)\]
