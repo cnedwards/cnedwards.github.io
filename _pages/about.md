@@ -70,28 +70,24 @@ Publications, Posters, etc.
 
 <h4> Conference </h4>
 
-**Text2Mol: Cross-Modal Molecular Retrieval with Natural Language Queries**
-
-Carl Edwards, ChengXiang Zhai, and Heng Ji
-
+**Text2Mol: Cross-Modal Molecular Retrieval with Natural Language Queries**  
+Carl Edwards, ChengXiang Zhai, and Heng Ji  
 *Proceedings of the 2021 Conference on Empirical Methods in Natural Language Processing (EMNLP). 2021.*
 
-**Team Skeletor at Touché 2021: Argument Retrieval and Visualization for Controversial Questions**
-
-Kevin Ros\*, Carl Edwards\*, Heng Ji, and ChengXiang Zhai
-
-*CLEF (Working Notes) 2441-2454. 2021.* \
+**Team Skeletor at Touché 2021: Argument Retrieval and Visualization for Controversial Questions**  
+Kevin Ros\*, Carl Edwards\*, Heng Ji, and ChengXiang Zhai  
+*CLEF (Working Notes) 2441-2454. 2021.*  
 \[[pdf](http://ceur-ws.org/Vol-2936/paper-218.pdf)\]
 
 \* - equal contribution
 
 <h4>Journal Article</h4>
 
-In-plane and out-of-plane rotational motion of individual chain molecules in steady shear flow of polymer melts and solutions, C.N. Edwards, M.H. Nafar Sefiddashti, B.J. Edwards, and B. Khomami, <i>J. Mol. Graph. Model.</i>, 81, 184-196 (2018). \
+In-plane and out-of-plane rotational motion of individual chain molecules in steady shear flow of polymer melts and solutions, C.N. Edwards, M.H. Nafar Sefiddashti, B.J. Edwards, and B. Khomami, <i>J. Mol. Graph. Model.</i>, 81, 184-196 (2018).  
 \[[link](https://www.sciencedirect.com/science/article/pii/S1093326318300470)\]
 
 Using Similarity Measures to Detect Organizations in Online Escort
-Advertisements, C. Edwards, A. Wertz, and A. Dubrawski, <i>Robotics Institute Summer Scholar’ Working Papers Journal</i>, 7, 43-49 (2019). \
+Advertisements, C. Edwards, A. Wertz, and A. Dubrawski, <i>Robotics Institute Summer Scholar’ Working Papers Journal</i>, 7, 43-49 (2019).  
 \[[pdf](https://riss.ri.cmu.edu/wp-content/uploads/2019/11/2019-riss-final-journal-aA.pdf)\]
 
 <h4>Presentations </h4>
@@ -100,13 +96,13 @@ Out-of-plane rotational motion in shear flow of polymer melts and solutions, M.H
 
 <h4>Posters </h4>
 
-Edwards C., Zhai CX., Ji H., Text2Mol: Cross-modal Molecular Retrieval with Natural Language Queries. Poster presented at: Molecule Maker Lab Institute Retreat 2021; 2021 August 2; Urbana, IL \
+Edwards C., Zhai CX., Ji H., Text2Mol: Cross-modal Molecular Retrieval with Natural Language Queries. Poster presented at: Molecule Maker Lab Institute Retreat 2021; 2021 August 2; Urbana, IL  
 \[[pdf](https://cnedwards.com/files/text2mol_8_2_poster.pdf)\]
 
-Edwards C.N., Wertz A., Dubrawski A.W., Using Similarity Measures to Detect Organizations in Online Escort Advertisements. Poster presented at: RISS 2019 Poster Session; 2019 August 14; Pittsburgh, PA. \
+Edwards C.N., Wertz A., Dubrawski A.W., Using Similarity Measures to Detect Organizations in Online Escort Advertisements. Poster presented at: RISS 2019 Poster Session; 2019 August 14; Pittsburgh, PA.  
 \[[pdf](https://riss.ri.cmu.edu/wp-content/uploads/2019/08/2019-RISS-poster-EDWARDS-Carl-DUBRAWSKI.pdf)\]
 
-Edwards C.N., Daniel B., Beam Broadening of Subarrayed Radar Arrays Utilizing Various Global Optimization Techniques. Poster presented at: ORNL 2018 Undergraduate Research Poster Session; 2018 August 1; Oak Ridge, TN \
+Edwards C.N., Daniel B., Beam Broadening of Subarrayed Radar Arrays Utilizing Various Global Optimization Techniques. Poster presented at: ORNL 2018 Undergraduate Research Poster Session; 2018 August 1; Oak Ridge, TN  
 \[[pdf](https://cnedwards.com/files/ORNL_SULI_Poster.pdf)\]
 
 <h4> Other </h4>
