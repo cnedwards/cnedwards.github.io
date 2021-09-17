@@ -77,7 +77,7 @@ Carl Edwards, ChengXiang Zhai, and Heng Ji
 ### Team Skeletor at Touché 2021: Argument Retrieval and Visualization for Controversial Questions  
 Kevin Ros\*, Carl Edwards\*, Heng Ji, and ChengXiang Zhai  
 *CLEF (Working Notes) 2441-2454. 2021.*  
-\[[pdf](http://ceur-ws.org/Vol-2936/paper-218.pdf)\]
+\[[pdf](http://ceur-ws.org/Vol-2936/paper-218.pdf)\] \[[video](https://youtu.be/eCSBmp3_pYA)\]
 
 \* - equal contribution
 
