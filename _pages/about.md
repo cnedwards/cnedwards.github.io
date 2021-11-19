@@ -38,6 +38,8 @@ I've been working with the [Molecule Maker Lab Institute](https://moleculemaker.
 
 [//]: # (<img src="https://pubchem.ncbi.nlm.nih.gov/image/imgsrv.fcgi?cid=151004&t=s" alt="Examples" style="width: 150px;"/>)
 
+[![PWC](https://img.shields.io/endpoint.svg?url=https://paperswithcode.com/badge/text2mol-cross-modal-molecule-retrieval-with/cross-modal-retrieval-on-chebi-20)](https://paperswithcode.com/sota/cross-modal-retrieval-on-chebi-20?p=text2mol-cross-modal-molecule-retrieval-with)
+
 
 
 <h3>Carnegie Mellon University </h3>
