@@ -27,7 +27,7 @@ Research
 ======
 
 <h3>University of Illinois </h3>
-I've been working with the [Molecule Maker Lab Institute](https://moleculemaker.org/) on integrating molecule and text information. I have publshed a paper, [Text2Mol](https://aclanthology.org/2021.emnlp-main.47/), from this work at EMNLP2021.
+I've been working with the [Molecule Maker Lab Institute](https://moleculemaker.org/) on integrating molecule and text information. A paper from this work, [Text2Mol](https://aclanthology.org/2021.emnlp-main.47/), was published at EMNLP2021.
 
 
 <img src="https://cnedwards.com/images/text2mol_task.PNG?raw=true" alt="Text2Mol Task" style="width: 500px;"/> 
