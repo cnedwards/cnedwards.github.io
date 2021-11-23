@@ -44,7 +44,7 @@ I've been working with the [Molecule Maker Lab Institute](https://moleculemaker.
 
 <h3>Carnegie Mellon University </h3>
 
-During summer 2019, I worked at CMU as a Robotics Institute Summer Scholar. I conducted research in the Auton Lab with Dr. Dubrawski working on detecting organization in online escort advertisements. I used several similarity measures using tools like fastText word embeddings, face recognition, and others. 
+During summer 2019, I worked at CMU as a Robotics Institute Summer Scholar. I conducted research in the Auton Lab with Prof. Artur Dubrawski working on detecting organizations in online escort advertisements. I used several similarity measures using tools like fastText word embeddings, face recognition, and others. 
 
 <img src="https://cnedwards.com/files/name_phone.png?raw=true" alt="Photo" style="width: 1000px;"/> 
 
@@ -76,7 +76,7 @@ Publications, Posters, etc.
 Carl Edwards, ChengXiang Zhai, and Heng Ji  
 *Proceedings of the 2021 Conference on Empirical Methods in Natural Language Processing (EMNLP). 2021.*
 
-\[[pdf](https://aclanthology.org/2021.emnlp-main.47.pdf)\] \[[video - on underline](https://underline.io/events/192/posters/8244/poster/37985-text2mol-cross-modal-molecule-retrieval-with-natural-language-queries)\]
+\[[pdf](https://aclanthology.org/2021.emnlp-main.47.pdf)\] \[[video - on underline](https://underline.io/events/192/posters/8244/poster/37985-text2mol-cross-modal-molecule-retrieval-with-natural-language-queries)\] \[[code](https://github.com/cnedwards/text2mol)\]
 
 ### Team Skeletor at Touché 2021: Argument Retrieval and Visualization for Controversial Questions  
 Kevin Ros\*, Carl Edwards\*, Heng Ji, and ChengXiang Zhai  
