@@ -89,6 +89,11 @@ Kevin Ros\*, Carl Edwards\*, Heng Ji, and ChengXiang Zhai
 *CLEF (Working Notes) 2441-2454. 2021.*  
 \[[pdf](http://ceur-ws.org/Vol-2936/paper-218.pdf)\] \[[video](https://youtu.be/eCSBmp3_pYA)\]  \[[code](https://github.com/kevinros/toucheRetrievalVisualization)\]
 
+### RESIN-11: Schema-guided Event Prediction for 11 Newsworthy Scenarios
+Xinya Du, Zixuan Zhang, Sha Li, Pengfei Yu, Hongwei Wang, Tuan Manh Lai, Xudong Lin, Ziqi Wang, Iris Liu, Ben Zhou, Haoyang Wen, Manling Li, Darryl Hannan, Qi Zeng, Qing Lyu, Charles Yu, **Carl Edwards**, Xiaomeng Jin, Yizhu Jiao, Ghazaleh Kazeminejad, Rotem Dror, Zhenhailong Wang, Chris Callison-Burch, Mohit Bansal, Carl Vondrick, Jiawei Han, Dan Roth, Shih-Fu Chang, Martha Palmer and Heng Ji
+*Proc. 2022 Annual Conference of the North American Chapter of the Association for Computational Linguistics (NAACL2022) System Demonstration Track*
+
+
 \* - equal contribution
 
 <h4>Journal Article</h4>
