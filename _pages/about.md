@@ -14,11 +14,14 @@ redirect_from:
 </p>
 -->
 
-Hi! My name is Carl Edwards, and I'm from Knoxville, Tennessee. I'm a PhD student in computer science at the University of Illinois at Urbana-Champaign where I'm advised by [Professor Heng Ji](http://blender.cs.illinois.edu/hengji.html). I completed my bachelor's degree at the University of Tennessee, Knoxville in May 2020 where I majored in CS and math. Generally, I'm interested <!---I believe that a critical next step in the development of AI will be the creation of --> in models that can generalize well on multiple tasks and which learn from multiple contrasting yet complementary domains of data. Specifically, I’m interested in leveraging multiple modalities and domains of data centered around language. My research interests cover information extraction, information retrieval, natural language processing, representation learning, text mining, and transfer learning. In particular, I'm interested in applying these tools to scientific texts to accelerate scientific discovery; I’m currently working on projects related to chemistry literature in association with the Molecule Maker Lab Institute, which provides an exciting testbed.
+Hi! My name is Carl Edwards, and I'm from Knoxville, Tennessee. I'm a PhD student in computer science at the University of Illinois at Urbana-Champaign where I'm advised by [Professor Heng Ji](http://blender.cs.illinois.edu/hengji.html). I completed my bachelor's degree at the University of Tennessee, Knoxville in May 2020 where I majored in CS and math. Generally, I'm interested in models that can generalize well on multiple tasks and which learn from multiple contrasting yet complementary domains of data. Specifically, I’m interested in leveraging multiple modalities and domains of data centered around language. My research interests cover information extraction, information retrieval, natural language processing, representation learning, text mining, and transfer learning. In particular, I'm interested in applying these tools to scientific texts to accelerate scientific discovery; I’m currently working on projects related to chemistry literature in association with the Molecule Maker Lab Institute, which provides an exciting testbed.
 
-In the past, I've had the opportunity to work on a variety of exciting research projects!
 
-I'm excited to be interning in the [Semantic Scholar Team at AI2](https://research.semanticscholar.org/) this summer. 
+News
+=====
+
+* I've released a preprint on "[Translation between Molecules and Natural Language](https://blender.cs.illinois.edu/paper/molt5.pdf)". It includes multiple elements I've been thinking about for a while, so I'm very excited about it. Thanks to my collaborators for making it possible!
+*I'm excited to be interning in the [Semantic Scholar Team at AI2](https://research.semanticscholar.org/) this summer. 
 
 Resume
 ======
@@ -26,6 +29,8 @@ See my (possibly outdated) resume attached [here.](https://cnedwards.com/files/E
 
 Research
 ======
+
+In the past, I've had the opportunity to work on a variety of exciting research projects!
 
 <h3>University of Illinois </h3>
 I've been working with the [Molecule Maker Lab Institute](https://moleculemaker.org/) on integrating molecule and text information. A paper from this work, [Text2Mol](https://aclanthology.org/2021.emnlp-main.47/), was published at EMNLP2021.
