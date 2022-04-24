@@ -21,7 +21,7 @@ News
 =====
 
 * I've released a preprint on "[Translation between Molecules and Natural Language](https://blender.cs.illinois.edu/paper/molt5.pdf)". It includes multiple elements I've been thinking about for a while, so I'm very excited about it. Thanks to my collaborators for making it possible!
-*I'm excited to be interning in the [Semantic Scholar Team at AI2](https://research.semanticscholar.org/) this summer. 
+* I'm excited to be interning in the [Semantic Scholar Team at AI2](https://research.semanticscholar.org/) this summer. 
 
 Resume
 ======
