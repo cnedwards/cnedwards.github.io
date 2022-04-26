@@ -20,7 +20,7 @@ Hi! My name is Carl Edwards, and I'm from Knoxville, Tennessee. I'm a PhD studen
 News
 =====
 
-* I've released a preprint on "[Translation between Molecules and Natural Language](https://blender.cs.illinois.edu/paper/molt5.pdf)". It includes multiple elements I've been thinking about for a while, so I'm very excited about it. Thanks to my collaborators for making it possible!
+* I've released a preprint on "[Translation between Molecules and Natural Language](https://arxiv.org/abs/2204.11817)". It includes multiple elements I've been thinking about for a while, so I'm very excited about it. Thanks to my collaborators for making it possible!
 * I'm excited to be interning in the [Semantic Scholar Team at AI2](https://research.semanticscholar.org/) this summer. 
 
 Resume
@@ -75,6 +75,18 @@ From fall 2016 to spring 2018, I worked as an undergraduate research assistant. 
 
 Publications, Posters, etc.
 ======
+
+<h4> Preprint </h4>
+
+### Translation between Molecules and Natural Language  
+Carl Edwards\*, Tuan Lai\*, Kevin Ros, Garrett Honke, and Heng Ji
+*arXiv preprint arXiv:2204.11817 (2022).*
+\[[pdf](https://arxiv.org/abs/2204.11817)\]
+
+### Semi-supervised New Event Type Induction and Description via Contrastive Loss-Enforced Batch Attention
+Carl Edwards and Heng Ji
+*arXiv preprint arXiv:2202.05943 (2022).*
+\[[pdf](https://arxiv.org/abs/2202.05943)\]
 
 <h4> Conference </h4>
 
