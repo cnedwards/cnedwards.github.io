@@ -171,11 +171,11 @@ Presentations to High School Students:
 
 o Summer 2019: Presentation on “Detecting Human Trafficking Organizations” with AI4All@CMU
 
-o April 2021: Illinois CS Sail course on "[Learning Word Representations](https://cnedwards.com/files/Learning Word Representations SAIL 2021.pptx.pdf)"
+o April 2021, 2022: Illinois CS Sail course on "[Learning Word Representations](https://cnedwards.com/files/Learning Word Representations SAIL 2021.pptx.pdf)"
 
 Reviewer: 
 
-ACL-IJCNLP Demo Track 2021, ACL Demo Track 2022
+ACL-IJCNLP Demo Track 2021, ACL Demo Track 2022, NAACL Demo Track 2022
 
 <!---
 Activities
