@@ -181,7 +181,7 @@ o April 2021, 2022: Illinois CS Sail course on "[Learning Word Representations](
 
 Reviewer: 
 
-ACL-IJCNLP Demo Track 2021, ACL Demo Track 2022, NAACL Demo Track 2022
+ACL-IJCNLP Demo Track 2021, ACL Demo Track 2022, 2023, NAACL Demo Track 2022, EACL Demo Track 2023
 
 <!---
 Activities
