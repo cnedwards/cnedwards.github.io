@@ -81,10 +81,11 @@ Publications, Posters, etc.
 ======
 
 
-<h4> Conference </h4>
+<h2> Conference </h2>
 
 ### Translation between Molecules and Natural Language  
 Carl Edwards\*, Tuan Lai\*, Kevin Ros, Garrett Honke, Kyunghyun Cho, and Heng Ji
+
 *Proceedings of the 2021 Conference on Empirical Methods in Natural Language Processing (EMNLP). 2022.*
 \[[pdf](https://arxiv.org/abs/2204.11817)\] \[[code](https://github.com/blender-nlp/MolT5)\]
 
@@ -105,14 +106,14 @@ Xinya Du, Zixuan Zhang, Sha Li, Pengfei Yu, Hongwei Wang, Tuan Manh Lai, Xudong 
 
 \* - equal contribution
 
-<h4> Preprint </h4>
+<h2> Preprint </h2>
 
 ### Semi-supervised New Event Type Induction and Description via Contrastive Loss-Enforced Batch Attention
 Carl Edwards and Heng Ji
 *arXiv preprint arXiv:2202.05943 (2022).*
 \[[pdf](https://arxiv.org/abs/2202.05943)\]
 
-<h4>Journal Article</h4>
+<h2>Journal Article</h2>
 
 In-plane and out-of-plane rotational motion of individual chain molecules in steady shear flow of polymer melts and solutions, C.N. Edwards, M.H. Nafar Sefiddashti, B.J. Edwards, and B. Khomami, <i>J. Mol. Graph. Model.</i>, 81, 184-196 (2018).  
 \[[link](https://www.sciencedirect.com/science/article/pii/S1093326318300470)\]
@@ -121,11 +122,11 @@ Using Similarity Measures to Detect Organizations in Online Escort
 Advertisements, C. Edwards, A. Wertz, and A. Dubrawski, <i>Robotics Institute Summer Scholar’ Working Papers Journal</i>, 7, 43-49 (2019).  
 \[[pdf](https://riss.ri.cmu.edu/wp-content/uploads/2019/11/2019-riss-final-journal-aA.pdf)\]
 
-<h4>Presentations </h4>
+<h2>Presentations </h2>
 
 Out-of-plane rotational motion in shear flow of polymer melts and solutions, M.H. Nafar Sefiddashti, C.N. Edwards, B.J. Edwards, and B. Khomami, The Society of Rheology 89th Annual Meeting, Denver, CO, October 8-12, 2017. 
 
-<h4>Posters </h4>
+<h2>Posters </h2>
 
 Edwards C., Zhai CX., Ji H., Text2Mol: Cross-modal Molecular Retrieval with Natural Language Queries. Poster presented at: Molecule Maker Lab Institute Retreat 2021; 2021 August 2; Urbana, IL  
 \[[pdf](https://cnedwards.com/files/text2mol_8_2_poster.pdf)\]
@@ -136,7 +137,7 @@ Edwards C.N., Wertz A., Dubrawski A.W., Using Similarity Measures to Detect Orga
 Edwards C.N., Daniel B., Beam Broadening of Subarrayed Radar Arrays Utilizing Various Global Optimization Techniques. Poster presented at: ORNL 2018 Undergraduate Research Poster Session; 2018 August 1; Oak Ridge, TN  
 \[[pdf](https://cnedwards.com/files/ORNL_SULI_Poster.pdf)\]
 
-<h4> Other </h4>
+<h2> Other </h2>
 
 Daniel, Barry, Carl Edwards, and Adam Anderson. "Phase-Only Beam Broadening of Contiguous Uniform Subarrayed Arrays Utilizing Three Metaheuristic Global Optimization Techniques." arXiv preprint arXiv:2009.06123 (2020). \
 \[[pdf](https://arxiv.org/pdf/2009.06123.pdf)\]
