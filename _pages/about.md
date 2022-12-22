@@ -117,7 +117,9 @@ Xinya Du, Zixuan Zhang, Sha Li, Pengfei Yu, Hongwei Wang, Tuan Manh Lai, Xudong 
 
 ### Semi-supervised New Event Type Induction and Description via Contrastive Loss-Enforced Batch Attention
 Carl Edwards and Heng Ji
+
 *arXiv preprint arXiv:2202.05943 (2022).*
+
 \[[pdf](https://arxiv.org/abs/2202.05943)\]
 
 <h2>Journal Article</h2>

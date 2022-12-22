@@ -33,9 +33,11 @@ Research
 In the past, I've had the opportunity to work on a variety of exciting research projects!
 
 <h3>University of Illinois </h3>
-I've been working with the [Molecule Maker Lab Institute](https://moleculemaker.org/) on integrating molecule and text information. This includes work on cross-modal retrieval: [Text2Mol (EMNLP2021)](https://aclanthology.org/2021.emnlp-main.47/) and generation: [Translation between Molecules and Natural Language (EMNLP 2022)](https://arxiv.org/abs/2204.11817).
+I've been working with the [Molecule Maker Lab Institute](https://moleculemaker.org/) on integrating molecule and text information. This includes work on cross-modal retrieval: [Text2Mol (EMNLP2021)](https://aclanthology.org/2021.emnlp-main.47/) 
 
 <img src="https://cnedwards.com/images/text2mol_task.PNG?raw=true" alt="Text2Mol Task" style="width: 500px;"/> 
+
+and cross-modal generation: [Translation between Molecules and Natural Language (EMNLP 2022)](https://arxiv.org/abs/2204.11817).
 
 <img src="https://cnedwards.com/images/molt5.png?raw=true" alt="MolT5 Training" style="width: 500px;"/> 
 
