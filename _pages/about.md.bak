@@ -14,7 +14,7 @@ redirect_from:
 </p>
 -->
 
-Hi! My name is Carl Edwards, and I'm from Knoxville, Tennessee. I'm a PhD student in computer science at the University of Illinois at Urbana-Champaign where I'm advised by [Professor Heng Ji](http://blender.cs.illinois.edu/hengji.html). I completed my bachelor's degree at the University of Tennessee, Knoxville in May 2020 where I majored in CS and math. Generally, I'm interested in models that can generalize well on multiple tasks and which learn from multiple contrasting yet complementary domains of data. Specifically, I’m interested in leveraging multiple modalities and domains of data centered around language. My research interests cover information extraction, information retrieval, natural language processing, representation learning, text mining, and transfer learning. In particular, I'm interested in applying these tools to scientific texts to accelerate scientific discovery; I’m currently working on projects related to chemistry literature in association with the Molecule Maker Lab Institute, which provides an exciting testbed.
+Hi! My name is Carl Edwards, and I'm from Knoxville, Tennessee. I'm a PhD student in computer science at the University of Illinois at Urbana-Champaign where I'm advised by [Professor Heng Ji](http://blender.cs.illinois.edu/hengji.html). I completed my bachelor's degree at the University of Tennessee, Knoxville in May 2020 where I majored in CS and math. Generally, I'm interested in models which leverage multiple modalities and domains of data centered around language. My research interests cover information extraction, information retrieval, natural language processing, representation learning, text mining, and transfer learning. I'm seeking to apply these interests to scientific texts to acclerate scientific discovery. I’m currently working on projects related to chemistry literature, particularly related to drug discovery and improvement, in association with the Molecule Maker Lab Institute.
 
 <!---
 News
@@ -181,7 +181,7 @@ o April 2021, 2022: Illinois CS Sail course on "[Learning Word Representations](
 
 Reviewer: 
 
-ACL-IJCNLP Demo Track 2021, ACL Demo Track 2022, 2023, NAACL Demo Track 2022
+ACL-IJCNLP Demo Track 2021, ACL Demo Track 2022, 2023, NAACL Demo Track 2022, EACL Demo Track 2023
 
 <!---
 Activities
