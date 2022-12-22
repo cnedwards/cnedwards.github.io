@@ -86,40 +86,31 @@ Publications, Posters, etc.
 <h2> Conference </h2>
 
 ### Translation between Molecules and Natural Language  
-Carl Edwards\*, Tuan Lai\*, Kevin Ros, Garrett Honke, Kyunghyun Cho, and Heng Ji
-
-*Proceedings of the 2021 Conference on Empirical Methods in Natural Language Processing (EMNLP). 2022.*
+Carl Edwards\*, Tuan Lai\*, Kevin Ros, Garrett Honke, Kyunghyun Cho, and Heng Ji  
+*Proceedings of the 2021 Conference on Empirical Methods in Natural Language Processing (EMNLP). 2022.*  
 \[[pdf](https://arxiv.org/abs/2204.11817)\] \[[code](https://github.com/blender-nlp/MolT5)\]
 
 ### Text2Mol: Cross-Modal Molecular Retrieval with Natural Language Queries  
 Carl Edwards, ChengXiang Zhai, and Heng Ji  
-
-*Proceedings of the 2021 Conference on Empirical Methods in Natural Language Processing (EMNLP). 2021.*
-
+*Proceedings of the 2021 Conference on Empirical Methods in Natural Language Processing (EMNLP). 2021.*  
 \[[pdf](https://aclanthology.org/2021.emnlp-main.47.pdf)\] \[[video - on underline](https://underline.io/events/192/posters/8244/poster/37985-text2mol-cross-modal-molecule-retrieval-with-natural-language-queries)\] \[[code](https://github.com/cnedwards/text2mol)\]
 
 ### Team Skeletor at Touché 2021: Argument Retrieval and Visualization for Controversial Questions  
 Kevin Ros\*, Carl Edwards\*, Heng Ji, and ChengXiang Zhai  
-
 *CLEF (Working Notes) 2441-2454. 2021.*  
-
 \[[pdf](http://ceur-ws.org/Vol-2936/paper-218.pdf)\] \[[video](https://youtu.be/eCSBmp3_pYA)\]  \[[code](https://github.com/kevinros/toucheRetrievalVisualization)\]
 
 ### RESIN-11: Schema-guided Event Prediction for 11 Newsworthy Scenarios
-Xinya Du, Zixuan Zhang, Sha Li, Pengfei Yu, Hongwei Wang, Tuan Manh Lai, Xudong Lin, Ziqi Wang, Iris Liu, Ben Zhou, Haoyang Wen, Manling Li, Darryl Hannan, Qi Zeng, Qing Lyu, Charles Yu, **Carl Edwards**, Xiaomeng Jin, Yizhu Jiao, Ghazaleh Kazeminejad, Rotem Dror, Zhenhailong Wang, Chris Callison-Burch, Mohit Bansal, Carl Vondrick, Jiawei Han, Dan Roth, Shih-Fu Chang, Martha Palmer and Heng Ji
-
-*Proc. 2022 Annual Conference of the North American Chapter of the Association for Computational Linguistics (NAACL2022) System Demonstration Track*
-
+Xinya Du, Zixuan Zhang, Sha Li, Pengfei Yu, Hongwei Wang, Tuan Manh Lai, Xudong Lin, Ziqi Wang, Iris Liu, Ben Zhou, Haoyang Wen, Manling Li, Darryl Hannan, Qi Zeng, Qing Lyu, Charles Yu, **Carl Edwards**, Xiaomeng Jin, Yizhu Jiao, Ghazaleh Kazeminejad, Rotem Dror, Zhenhailong Wang, Chris Callison-Burch, Mohit Bansal, Carl Vondrick, Jiawei Han, Dan Roth, Shih-Fu Chang, Martha Palmer and Heng Ji  
+*Proc. 2022 Annual Conference of the North American Chapter of the Association for Computational Linguistics (NAACL2022) System Demonstration Track*  
 
 \* - equal contribution
 
 <h2> Preprint </h2>
 
 ### Semi-supervised New Event Type Induction and Description via Contrastive Loss-Enforced Batch Attention
-Carl Edwards and Heng Ji
-
-*arXiv preprint arXiv:2202.05943 (2022).*
-
+Carl Edwards and Heng Ji  
+*arXiv preprint arXiv:2202.05943 (2022).*  
 \[[pdf](https://arxiv.org/abs/2202.05943)\]
 
 <h2>Journal Article</h2>
