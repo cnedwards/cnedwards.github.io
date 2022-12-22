@@ -24,7 +24,7 @@ Hi! My name is Carl Edwards, and I'm from Knoxville, Tennessee. I'm a PhD studen
 
 Resume
 ======
-See my (possibly outdated) resume attached [here.](https://cnedwards.com/files/Edwards_resume.pdf)
+See my (possibly outdated) CV attached [here.](https://cnedwards.com/files/CV_website.pdf)
 
 Research
 ======
