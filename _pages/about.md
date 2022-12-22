@@ -16,11 +16,12 @@ redirect_from:
 
 Hi! My name is Carl Edwards, and I'm from Knoxville, Tennessee. I'm a PhD student in computer science at the University of Illinois at Urbana-Champaign where I'm advised by [Professor Heng Ji](http://blender.cs.illinois.edu/hengji.html). I completed my bachelor's degree at the University of Tennessee, Knoxville in May 2020 where I majored in CS and math. Generally, I'm interested in models that can generalize well on multiple tasks and which learn from multiple contrasting yet complementary domains of data. Specifically, I’m interested in leveraging multiple modalities and domains of data centered around language. My research interests cover information extraction, information retrieval, natural language processing, representation learning, text mining, and transfer learning. In particular, I'm interested in applying these tools to scientific texts to accelerate scientific discovery; I’m currently working on projects related to chemistry literature in association with the Molecule Maker Lab Institute, which provides an exciting testbed.
 
+<!---
+News
+=====
 
-#News
-# =====
-
-#* I've released a preprint on "[Translation between Molecules and Natural Language](https://arxiv.org/abs/2204.11817)". It includes multiple elements I've been thinking about for a while, so I'm very excited about it. Thanks to my collaborators for making it possible!
+* I've released a preprint on "[Translation between Molecules and Natural Language](https://arxiv.org/abs/2204.11817)". It includes multiple elements I've been thinking about for a while, so I'm very excited about it. Thanks to my collaborators for making it possible!
+-->
 
 Resume
 ======
@@ -38,7 +39,9 @@ I've been working with the [Molecule Maker Lab Institute](https://moleculemaker.
 
 <img src="https://cnedwards.com/images/molt5.png?raw=true" alt="MolT5 Training" style="width: 500px;"/> 
 
-#<img src="https://cnedwards.com/images/correct_examples.PNG?raw=true" alt="Text2Mol Examples" style="width: 500px;"/> 
+<!---
+<img src="https://cnedwards.com/images/correct_examples.PNG?raw=true" alt="Text2Mol Examples" style="width: 500px;"/> 
+-->
 
 [Here](https://cnedwards.com/files/text2mol_8_2_poster.pdf) is the poster for Text2Mol. 
 
