@@ -86,7 +86,7 @@ Publications, Posters, etc.
 ### Translation between Molecules and Natural Language  
 Carl Edwards\*, Tuan Lai\*, Kevin Ros, Garrett Honke, Kyunghyun Cho, and Heng Ji
 *Proceedings of the 2021 Conference on Empirical Methods in Natural Language Processing (EMNLP). 2022.*
-\[[pdf](https://arxiv.org/abs/2204.11817)\]
+\[[pdf](https://arxiv.org/abs/2204.11817)\] \[[code](https://github.com/blender-nlp/MolT5)\]
 
 ### Text2Mol: Cross-Modal Molecular Retrieval with Natural Language Queries  
 Carl Edwards, ChengXiang Zhai, and Heng Ji  
