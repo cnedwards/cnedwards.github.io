@@ -33,7 +33,7 @@ Research
 In the past, I've had the opportunity to work on a variety of exciting research projects!
 
 <h3>University of Illinois </h3>
-I've been working with the [Molecule Maker Lab Institute](https://moleculemaker.org/) on integrating molecule and text information. See work on cross-modal retrieval: [Text2Mol (EMNLP2021)](https://aclanthology.org/2021.emnlp-main.47/) and generation: [Translation between Molecules and Natural Language (EMNLP 2022)](https://arxiv.org/abs/2204.11817).
+I've been working with the [Molecule Maker Lab Institute](https://moleculemaker.org/) on integrating molecule and text information. This includes work on cross-modal retrieval: [Text2Mol (EMNLP2021)](https://aclanthology.org/2021.emnlp-main.47/) and generation: [Translation between Molecules and Natural Language (EMNLP 2022)](https://arxiv.org/abs/2204.11817).
 
 <img src="https://cnedwards.com/images/text2mol_task.PNG?raw=true" alt="Text2Mol Task" style="width: 500px;"/> 
 
@@ -93,12 +93,14 @@ Carl Edwards\*, Tuan Lai\*, Kevin Ros, Garrett Honke, Kyunghyun Cho, and Heng Ji
 Carl Edwards, ChengXiang Zhai, and Heng Ji  
 
 *Proceedings of the 2021 Conference on Empirical Methods in Natural Language Processing (EMNLP). 2021.*
+
 \[[pdf](https://aclanthology.org/2021.emnlp-main.47.pdf)\] \[[video - on underline](https://underline.io/events/192/posters/8244/poster/37985-text2mol-cross-modal-molecule-retrieval-with-natural-language-queries)\] \[[code](https://github.com/cnedwards/text2mol)\]
 
 ### Team Skeletor at Touché 2021: Argument Retrieval and Visualization for Controversial Questions  
 Kevin Ros\*, Carl Edwards\*, Heng Ji, and ChengXiang Zhai  
 
 *CLEF (Working Notes) 2441-2454. 2021.*  
+
 \[[pdf](http://ceur-ws.org/Vol-2936/paper-218.pdf)\] \[[video](https://youtu.be/eCSBmp3_pYA)\]  \[[code](https://github.com/kevinros/toucheRetrievalVisualization)\]
 
 ### RESIN-11: Schema-guided Event Prediction for 11 Newsworthy Scenarios
