@@ -95,6 +95,11 @@ Carl Edwards, ChengXiang Zhai, and Heng Ji
 *Proceedings of the 2021 Conference on Empirical Methods in Natural Language Processing (EMNLP). 2021.*  
 \[[pdf](https://aclanthology.org/2021.emnlp-main.47.pdf)\] \[[video - on underline](https://underline.io/events/192/posters/8244/poster/37985-text2mol-cross-modal-molecule-retrieval-with-natural-language-queries)\] \[[code](https://github.com/cnedwards/text2mol)\]
 
+### Semi-supervised New Event Type Induction and Description via Contrastive Loss-Enforced Batch Attention
+Carl Edwards and Heng Ji  
+*Proc. 2023 Annual Conference of the European Chapter of the Association for Computational Linguistics (EACL2022). 2023.*  
+\[[pdf](https://arxiv.org/abs/2202.05943)\]
+
 ### Team Skeletor at Touché 2021: Argument Retrieval and Visualization for Controversial Questions  
 Kevin Ros\*, Carl Edwards\*, Heng Ji, and ChengXiang Zhai  
 *CLEF (Working Notes) 2441-2454. 2021.*  
@@ -108,10 +113,6 @@ Xinya Du, Zixuan Zhang, Sha Li, Pengfei Yu, Hongwei Wang, Tuan Manh Lai, Xudong 
 
 <h2> Preprint </h2>
 
-### Semi-supervised New Event Type Induction and Description via Contrastive Loss-Enforced Batch Attention
-Carl Edwards and Heng Ji  
-*arXiv preprint arXiv:2202.05943 (2022).*  
-\[[pdf](https://arxiv.org/abs/2202.05943)\]
 
 <h2>Journal Article</h2>
 
