@@ -97,7 +97,7 @@ Carl Edwards, ChengXiang Zhai, and Heng Ji
 
 ### Semi-supervised New Event Type Induction and Description via Contrastive Loss-Enforced Batch Attention
 Carl Edwards and Heng Ji  
-*Proc. 2023 Annual Conference of the European Chapter of the Association for Computational Linguistics (EACL2023). 2023.*  
+*Proc. The 17th Conference of the European Chapter of the Association for Computational Linguistics (EACL2023). 2023.*  
 \[[pdf](https://arxiv.org/abs/2202.05943)\]
 
 ### Team Skeletor at Touché 2021: Argument Retrieval and Visualization for Controversial Questions  
