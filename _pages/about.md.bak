@@ -277,8 +277,6 @@ Volunteering at Salvation Army food pantry
 
 Volunteering at Ijams River Rescue
 
-<img src="https://cnedwards.com/images/river_.png?raw=true" alt="Photo" style="width: 400px;"/> 
-
 Volunteering at KARM
 
 Volunteering after Gatlinburg fires to sort donations
