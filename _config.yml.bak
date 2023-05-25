@@ -83,7 +83,7 @@ analytics:
 author:
   name             : "Carl Edwards"
   avatar           : "profile.jpg"
-  bio              : "I'm a PhD student at the University of Illinois at Urbana-Champaign."
+  bio              : "I'm a PhD candidate at the University of Illinois at Urbana-Champaign."
   location         : "Champaign-Urbana, Illinois"
   employer         :
   pubmed           : #"https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
@@ -110,7 +110,7 @@ author:
   stackoverflow    : # http://stackoverflow.com/users/123456/username
   steam            :
   tumblr           :
-  twitter          : #"replacethistwitterhandle"
+  twitter          : CarlEdwards_NLP
   vine             :
   weibo            :
   xing             :
