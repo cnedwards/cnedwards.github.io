@@ -14,7 +14,12 @@ redirect_from:
 </p>
 -->
 
-Hi! My name is Carl Edwards, and I'm from Knoxville, Tennessee. I'm a PhD student in computer science at the University of Illinois at Urbana-Champaign where I'm advised by [Professor Heng Ji](http://blender.cs.illinois.edu/hengji.html). I completed my bachelor's degree at the University of Tennessee, Knoxville in May 2020 where I majored in CS and math. Generally, I'm interested in models which leverage multiple modalities and domains of data centered around language. My research interests cover information extraction, information retrieval, natural language processing, representation learning, text mining, and transfer learning. In particular, my work seeks to apply these tools to scientific texts to accelerate scientific discovery. I’m currently working on projects related to chemistry literature, particularly related to drug discovery and improvement, in association with the Molecule Maker Lab NSF AI Institute.
+Hi! My name is Carl Edwards, and I'm from Knoxville, Tennessee. I'm a PhD student in computer science at the University of Illinois at Urbana-Champaign where I'm advised by [Professor Heng Ji](http://blender.cs.illinois.edu/hengji.html). I completed my bachelor's degree at the University of Tennessee, Knoxville in May 2020 where I majored in CS and math. 
+
+The world faces an enormous number of problems in the coming decades on scales of complexity never-before-seen, in areas such as climate change, healthcare, and pandemics. To address these issues, we need to discover inventive solutions which are scalable, flexible, and inexpensive. Further, we need to develop these solutions quickly. Under these conditions, vast quantities of information are being created at ever increasing rates. This flood of information leads to inefficiencies via duplication of effort while critical information is lost in the deluge of papers. To solve these problems, we need to be able to synthesize and understand massive scales of information. This motivates my high-level research direction: applying natural language processing (NLP) for scientific discovery. Specifically, I am currently interested in NLP for molecular and drug discovery, particularly by integrating natural language with molecules.
+
+In terms of research interests, I am generally interested in models which leverage multiple modalities and domains of data centered around language. My research interests cover information extraction, information retrieval, natural language processing, representation learning, text mining, and transfer learning. In particular, my work seeks to apply these tools (and develop new ones!) to scientific texts to accelerate scientific discovery. I’m currently working on projects related to chemistry literature in association with the Molecule Maker Lab NSF AI Institute.
+
 
 <!---
 News
@@ -185,7 +190,7 @@ Presentations to Middle School Students:
 o Spring 2023: Two presentations on “Intro to AI for Chemistry” for underrepresented middle schoolers with The Well Experience and DREAAM.
 
 
-Reviewer: 
+Program Committee: 
 
 ACL-IJCNLP 2021, ACL 2022, 2023, NAACL 2022, EACL 2023
 
