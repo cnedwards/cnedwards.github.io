@@ -116,8 +116,10 @@ Xinya Du, Zixuan Zhang, Sha Li, Pengfei Yu, Hongwei Wang, Tuan Manh Lai, Xudong 
 
 \* - equal contribution
 
+<!---
 <h2> Preprint </h2>
 
+-->
 
 <h2>Journal Article</h2>
 
@@ -133,15 +135,16 @@ Advertisements, C. Edwards, A. Wertz, and A. Dubrawski, <i>Robotics Institute Su
 Out-of-plane rotational motion in shear flow of polymer melts and solutions, M.H. Nafar Sefiddashti, C.N. Edwards, B.J. Edwards, and B. Khomami, The Society of Rheology 89th Annual Meeting, Denver, CO, October 8-12, 2017. 
 
 <h2>Posters </h2>
+[MolT5](https://cnedwards.com/files/MolT5_poster.pdf)
 
-Edwards C., Zhai CX., Ji H., Text2Mol: Cross-modal Molecular Retrieval with Natural Language Queries. Poster presented at: Molecule Maker Lab Institute Retreat 2021; 2021 August 2; Urbana, IL  
-\[[pdf](https://cnedwards.com/files/text2mol_8_2_poster.pdf)\]
+[Text2Mol](https://cnedwards.com/files/text2mol_8_2_poster.pdf)
 
-Edwards C.N., Wertz A., Dubrawski A.W., Using Similarity Measures to Detect Organizations in Online Escort Advertisements. Poster presented at: RISS 2019 Poster Session; 2019 August 14; Pittsburgh, PA.  
-\[[pdf](https://riss.ri.cmu.edu/wp-content/uploads/2019/08/2019-RISS-poster-EDWARDS-Carl-DUBRAWSKI.pdf)\]
+[Semi-supervised New Event Type Induction](https://cnedwards.com/files/neweventtype.pdf)
 
-Edwards C.N., Daniel B., Beam Broadening of Subarrayed Radar Arrays Utilizing Various Global Optimization Techniques. Poster presented at: ORNL 2018 Undergraduate Research Poster Session; 2018 August 1; Oak Ridge, TN  
-\[[pdf](https://cnedwards.com/files/ORNL_SULI_Poster.pdf)\]
+[Using Similarity Measures to Detect Organizations in Online Escort Advertisements](https://riss.ri.cmu.edu/wp-content/uploads/2019/08/2019-RISS-poster-EDWARDS-Carl-DUBRAWSKI.pdf)
+
+[Subarrayed Radar Arrays Beam Optimization](https://cnedwards.com/files/ORNL_SULI_Poster.pdf)
+
 
 <h2> Other </h2>
 
