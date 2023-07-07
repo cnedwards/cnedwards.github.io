@@ -87,6 +87,11 @@ From fall 2016 to spring 2018, I worked as an undergraduate research assistant. 
 Publications, Posters, etc.
 ======
 
+<h2> Preprint </h2>
+
+Carl Edwards, Aakanksha Naik, Tushar Khot, Martin D Burke, Heng Ji, and Tom Hope
+*bioRxiv, 2023. doi: 10.1101/2023.07.06.547759. 2023.*
+\[[pdf](https://www.biorxiv.org/content/early/2023/07/07/2023.07.06.547759)\] 
 
 <h2> Conference </h2>
 
@@ -116,10 +121,6 @@ Xinya Du, Zixuan Zhang, Sha Li, Pengfei Yu, Hongwei Wang, Tuan Manh Lai, Xudong 
 
 \* - equal contribution
 
-<!---
-<h2> Preprint </h2>
-
--->
 
 <h2>Journal Article</h2>
 
