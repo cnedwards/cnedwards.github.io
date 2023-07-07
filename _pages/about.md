@@ -89,8 +89,8 @@ Publications, Posters, etc.
 
 <h2> Preprint </h2>
 
-Carl Edwards, Aakanksha Naik, Tushar Khot, Martin D Burke, Heng Ji, and Tom Hope
-*bioRxiv, 2023. doi: 10.1101/2023.07.06.547759. 2023.*
+Carl Edwards, Aakanksha Naik, Tushar Khot, Martin D Burke, Heng Ji, and Tom Hope  
+*bioRxiv, 2023. doi: 10.1101/2023.07.06.547759. 2023.*  
 \[[pdf](https://www.biorxiv.org/content/early/2023/07/07/2023.07.06.547759)\] 
 
 <h2> Conference </h2>
