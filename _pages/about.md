@@ -58,7 +58,7 @@ and cross-modal generation: [Translation between Molecules and Natural Language 
 
 <h3>Allen Institute for Artificial Intelligence (AI2) - Semantic Scholar Team </h3>
 
-I had a great time working on drug synergy with LLMs during summer 2022 at the Semantic Scholar team. The project evolved from semi-paramteric language models using the literature to in-context learning and drug design. 
+I had a great time working on drug synergy with LLMs during summer 2022 at the Semantic Scholar team. The project evolved from semi-paramteric language models using the literature to in-context learning and drug design. See our preprint [here](https://www.biorxiv.org/content/10.1101/2023.07.06.547759v1).
 
 <img src="https://cnedwards.com/images/graph_steps_cropped1024_1.png?raw=true" alt="SynerGPT Training" style="width: 500px;"/> 
 
