@@ -24,7 +24,7 @@ In terms of research interests, I am generally interested in models which levera
 News
 =====
 
-* I've released a new preprint: "[SynerGPT: In-Context Learning for Personalized Drug Synergy Prediction and Drug Design](https://www.biorxiv.org/content/10.1101/2023.07.06.547759v1)". It includes multiple elements I've been thinking about for a while, so I'm very excited about it. Thanks to my collaborators for making it possible!
+* I've released a new preprint: "[SynerGPT: In-Context Learning for Personalized Drug Synergy Prediction and Drug Design](https://www.biorxiv.org/content/10.1101/2023.07.06.547759v1)". Thanks to my collaborators at AI2 and UIUC for making it possible!
 
 
 Resume
@@ -56,6 +56,11 @@ and cross-modal generation: [Translation between Molecules and Natural Language 
 [![PWC](https://img.shields.io/endpoint.svg?url=https://paperswithcode.com/badge/text2mol-cross-modal-molecule-retrieval-with/cross-modal-retrieval-on-chebi-20)](https://paperswithcode.com/sota/cross-modal-retrieval-on-chebi-20?p=text2mol-cross-modal-molecule-retrieval-with)
 
 
+<h3>Allen Institute for Artificial Intelligence (AI2) - Semantic Scholar Team </h3>
+
+I had a great time working on drug synergy with LLMs during summer 2022 at the Semantic Scholar team. The project evolved from semi-paramteric language models using the literature to in-context learning and drug design. 
+
+<img src="https://cnedwards.com/images/graph_steps_cropped1024_1.png?raw=true" alt="MolT5 Training" style="width: 500px;"/> 
 
 <h3>Carnegie Mellon University </h3>
 

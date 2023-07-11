@@ -56,6 +56,11 @@ and cross-modal generation: [Translation between Molecules and Natural Language 
 [![PWC](https://img.shields.io/endpoint.svg?url=https://paperswithcode.com/badge/text2mol-cross-modal-molecule-retrieval-with/cross-modal-retrieval-on-chebi-20)](https://paperswithcode.com/sota/cross-modal-retrieval-on-chebi-20?p=text2mol-cross-modal-molecule-retrieval-with)
 
 
+<h3>Allen Institute for Artificial Intelligence (AI2) - Semantic Scholar Team </h3>
+
+I had a great time working on drug synergy with LLMs during summer 2022 at the Semantic Scholar team. The project evolved from semi-paramteric language models using the literature to in-context learning and drug design. 
+
+<img src="https://cnedwards.com/images/graph_steps_cropped1024_1.png?raw=true" alt="SynerGPT Training" style="width: 500px;"/> 
 
 <h3>Carnegie Mellon University </h3>
 
