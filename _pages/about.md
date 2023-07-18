@@ -24,6 +24,9 @@ In terms of research interests, I am generally interested in models which levera
 News
 =====
 
+* I'm excited to have contributed to the exciting "[Artificial Intelligence for Science in Quantum, Atomistic, and Continuum Systems
+](https://arxiv.org/abs/2307.08423)" survey! Particularly, my contribution focused on the " Natural Language-Guided Scientific Discovery" section.
+
 * I've released a new preprint: "[SynerGPT: In-Context Learning for Personalized Drug Synergy Prediction and Drug Design](https://www.biorxiv.org/content/10.1101/2023.07.06.547759v1)". Thanks to my collaborators at AI2 and UIUC for making it possible!
 
 
@@ -97,6 +100,11 @@ Publications, Posters, etc.
 Carl Edwards, Aakanksha Naik, Tushar Khot, Martin D Burke, Heng Ji, and Tom Hope  
 *bioRxiv, 2023. doi: 10.1101/2023.07.06.547759. 2023.*  
 \[[pdf](https://www.biorxiv.org/content/early/2023/07/07/2023.07.06.547759)\] 
+
+### Artificial Intelligence for Science in Quantum, Atomistic, and Continuum Systems
+Xuan Zhang, Limei Wang, Jacob Helwig, Youzhi Luo, Cong Fu, Yaochen Xie, [...], **Carl Edwards**, [...], Alán Aspuru-Guzik, Erik Bekkers, Michael Bronstein, Marinka Zitnik, Anima Anandkumar, Stefano Ermon, Pietro Liò, Rose Yu, Stephan Günnemann, Jure Leskovec, Heng Ji, Jimeng Sun, Regina Barzilay, Tommi Jaakkola, Connor W. Coley, Xiaoning Qian, Xiaofeng Qian, Tess Smidt, and Shuiwang Ji  
+*arXiv preprint arXiv:2307.08423. 2020.*  
+\[[pdf](https://arxiv.org/abs/2307.08423)\]  
 
 <h2> Conference </h2>
 
