@@ -295,7 +295,7 @@ Birdwatching
 <img src="https://cnedwards.com/images/indigo.jpg?raw=true" alt="Photo" style="width: 450px;"/> 
 
 
-
+<!---
 Volunteering
 ======
 Volunteering at Salvation Army food pantry
@@ -308,3 +308,4 @@ Volunteering at KARM
 
 Volunteering after Gatlinburg fires to sort donations
 
+-->
