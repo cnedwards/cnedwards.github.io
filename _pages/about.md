@@ -144,9 +144,13 @@ Using Similarity Measures to Detect Organizations in Online Escort
 Advertisements, C. Edwards, A. Wertz, and A. Dubrawski, <i>Robotics Institute Summer Scholar’ Working Papers Journal</i>, 7, 43-49 (2019).  
 \[[pdf](https://riss.ri.cmu.edu/wp-content/uploads/2019/11/2019-riss-final-journal-aA.pdf)\]
 
+
+<!---
 <h2>Presentations </h2>
 
 Out-of-plane rotational motion in shear flow of polymer melts and solutions, M.H. Nafar Sefiddashti, C.N. Edwards, B.J. Edwards, and B. Khomami, The Society of Rheology 89th Annual Meeting, Denver, CO, October 8-12, 2017. 
+
+-->
 
 <h2>Posters </h2>
 [MolT5](https://cnedwards.com/files/MolT5_poster.pdf)
