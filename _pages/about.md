@@ -24,6 +24,8 @@ In terms of research interests, I am generally interested in models which levera
 News
 =====
 
+* I gave a talk on "[Language-Guided Scientific Discovery for Chemistry](https://twitter.com/CTC_Germany/status/1699412907652465054)" at the exciting new [Center for the Transformation of Chemistry](https://transforming-chemistry.org/)! [Here](https://cnedwards.com/files/CTC_talk_website.pdf) are the slides from my talk! In particular, I'm partial to [this key overview slide](CTC_key_slide.pdf). 
+
 * I'm excited to have contributed to the exciting "[Artificial Intelligence for Science in Quantum, Atomistic, and Continuum Systems
 ](https://arxiv.org/abs/2307.08423)" survey! Particularly, my contribution focused on the " Natural Language-Guided Scientific Discovery" section.
 
@@ -61,7 +63,7 @@ and cross-modal generation: [Translation between Molecules and Natural Language 
 
 <h3>Allen Institute for Artificial Intelligence (AI2) - Semantic Scholar Team </h3>
 
-I had a great time working on drug synergy with LLMs during summer 2022 at the Semantic Scholar team. The project evolved from semi-paramteric language models using the literature to in-context learning and drug design. See our preprint [here](https://www.biorxiv.org/content/10.1101/2023.07.06.547759v1).
+I had a great time working on drug synergy with LLMs during summer 2022 at the Semantic Scholar team. The project evolved from semi-parameteric language models using the literature to in-context learning and drug design. See our preprint [here](https://www.biorxiv.org/content/10.1101/2023.07.06.547759v1).
 
 <img src="https://cnedwards.com/images/graph_steps_cropped1024_1.png?raw=true" alt="SynerGPT Training" style="width: 500px;"/> 
 
