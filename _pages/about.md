@@ -14,7 +14,7 @@ redirect_from:
 </p>
 -->
 
-Hi! My name is Carl Edwards, and I'm from Knoxville, Tennessee. I'm a PhD candidate in computer science at the University of Illinois at Urbana-Champaign where I'm advised by [Professor Heng Ji](http://blender.cs.illinois.edu/hengji.html). My research focuses on, with increasing specificity, AI4Science &rarr; NLP4Science &rarr; NLP4Chemistry &rarr; NLP for Controlling Molecular Design in cancer drugs, organic photovoltaics, etc. 
+Hi! My name is Carl Edwards, and I'm from Knoxville, Tennessee. I'm a PhD candidate in computer science at the University of Illinois at Urbana-Champaign where I'm advised by [Professor Heng Ji](http://blender.cs.illinois.edu/hengji.html). TEST BROKEN SENTENCE.
 
 The world faces an enormous number of problems in the coming decades on scales of complexity never-before-seen, in areas such as climate change, healthcare, and pandemics. To address these issues, we need to discover inventive solutions which are scalable, flexible, and inexpensive. Further, we need to develop these solutions quickly. Under these conditions, vast quantities of information are being created at ever increasing rates. This flood of information leads to inefficiencies via duplication of effort while critical information is lost in the deluge of papers. To solve these problems, we need to be able to synthesize and understand massive scales of information. This motivates my high-level research direction: applying natural language processing (NLP) for scientific discovery. Specifically, I am currently interested in NLP for molecular and drug discovery, particularly by integrating natural language with molecules.
 
