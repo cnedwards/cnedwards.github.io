@@ -14,7 +14,7 @@ redirect_from:
 </p>
 -->
 
-Hi! My name is Carl Edwards, and I'm from Knoxville, Tennessee. I'm a PhD candidate in computer science at the University of Illinois at Urbana-Champaign where I'm advised by [Professor Heng Ji](http://blender.cs.illinois.edu/hengji.html). I completed my bachelor's degree at the University of Tennessee, Knoxville in May 2020 where I majored in CS and math. 
+Hi! My name is Carl Edwards, and I'm from Knoxville, Tennessee. I'm a PhD candidate in computer science at the University of Illinois at Urbana-Champaign where I'm advised by [Professor Heng Ji](http://blender.cs.illinois.edu/hengji.html). My research focuses on, with increasing specificity, AI4Science -> NLP4Science -> NLP4Chemistry -> NLP for Controlling Molecular Design in cancer drugs, organic photovoltaics, etc. 
 
 The world faces an enormous number of problems in the coming decades on scales of complexity never-before-seen, in areas such as climate change, healthcare, and pandemics. To address these issues, we need to discover inventive solutions which are scalable, flexible, and inexpensive. Further, we need to develop these solutions quickly. Under these conditions, vast quantities of information are being created at ever increasing rates. This flood of information leads to inefficiencies via duplication of effort while critical information is lost in the deluge of papers. To solve these problems, we need to be able to synthesize and understand massive scales of information. This motivates my high-level research direction: applying natural language processing (NLP) for scientific discovery. Specifically, I am currently interested in NLP for molecular and drug discovery, particularly by integrating natural language with molecules.
 
@@ -24,7 +24,7 @@ In terms of research interests, I am generally interested in models which levera
 News
 =====
 
-* I gave a talk on "[Language-Guided Scientific Discovery for Chemistry](https://twitter.com/CTC_Germany/status/1699412907652465054)" at the exciting new [Center for the Transformation of Chemistry](https://transforming-chemistry.org/)! [Here](https://cnedwards.com/files/CTC_talk_website.pdf) are the slides from my talk! In particular, I'm partial to [this key overview slide](CTC_key_slide.pdf). 
+* I gave a talk on "[Language-Guided Scientific Discovery for Chemistry](https://twitter.com/CTC_Germany/status/1699412907652465054)" at the exciting new [Center for the Transformation of Chemistry](https://transforming-chemistry.org/)! [Here](https://cnedwards.com/files/CTC_talk_website.pdf) are the slides from my talk! In particular, I'm partial to [this key overview slide](https://cnedwards.com/files/CTC_key_slide.pdf). 
 
 * I'm excited to have contributed to the exciting "[Artificial Intelligence for Science in Quantum, Atomistic, and Continuum Systems
 ](https://arxiv.org/abs/2307.08423)" survey! Particularly, my contribution focused on the " Natural Language-Guided Scientific Discovery" section.
