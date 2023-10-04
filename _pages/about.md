@@ -23,6 +23,8 @@ In terms of research interests, I am generally interested in models which levera
 
 News
 =====
+* I'll be presenting a tutorial on "Language + Molecules" with my advisor Prof. Ji and Qingyun Wang at EACL in Malta!
+
 
 * I gave a talk on "[Language-Guided Scientific Discovery for Chemistry](https://twitter.com/CTC_Germany/status/1699412907652465054)" at the exciting new [Center for the Transformation of Chemistry](https://transforming-chemistry.org/)! [Here](https://cnedwards.com/files/CTC_talk_website.pdf) are the slides from my talk! In particular, I'm partial to [this key overview slide](https://cnedwards.com/files/CTC_key_slide.pdf). 
 
@@ -42,7 +44,7 @@ Research
 In the past, I've had the opportunity to work on a variety of exciting research projects!
 
 <h3>University of Illinois </h3>
-I've been working with the [Molecule Maker Lab Institute](https://moleculemaker.org/) on integrating molecule and text information. This includes work on cross-modal retrieval: [Text2Mol (EMNLP2021)](https://aclanthology.org/2021.emnlp-main.47/) 
+I've been working with the [Molecule Maker Lab Institute](https://moleculemaker.org/) on integrating molecule and text information. This includes work proposing cross-modal retrieval: [Text2Mol (EMNLP2021)](https://aclanthology.org/2021.emnlp-main.47/) 
 
 <img src="https://cnedwards.com/images/text2mol_task.PNG?raw=true" alt="Text2Mol Task" style="width: 500px;"/> 
 
