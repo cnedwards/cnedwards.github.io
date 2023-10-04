@@ -23,7 +23,7 @@ In terms of research interests, I am generally interested in models which levera
 
 News
 =====
-* I'll be presenting a tutorial on "Language + Molecules" with my advisor Prof. Ji and Qingyun Wang at EACL in Malta!
+* I'll be presenting a tutorial on "Language + Molecules" with my advisor Prof. Ji and Qingyun Wang at EACL in Malta next year! I'm very excited to contribute to building a community in this new research area. 
 
 
 * I gave a talk on "[Language-Guided Scientific Discovery for Chemistry](https://twitter.com/CTC_Germany/status/1699412907652465054)" at the exciting new [Center for the Transformation of Chemistry](https://transforming-chemistry.org/)! [Here](https://cnedwards.com/files/CTC_talk_website.pdf) are the slides from my talk! In particular, I'm partial to [this key overview slide](https://cnedwards.com/files/CTC_key_slide.pdf). 
