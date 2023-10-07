@@ -23,7 +23,9 @@ In terms of research interests, I am generally interested in models which levera
 
 News
 =====
-* I'll be organizing the first "Language + Molecules" workshop at ACL24 in Bangkok and presenting an introductory tutorial earlier at EACL24 in Malta! I'm very excited to contribute to building a community in this new research area. 
+* Two papers accepted to EMNLP findings! Thanks to my colleagues and collaborators!
+
+* I'll be organizing the first "Language + Molecules" workshop at ACL24 in Bangkok and presenting an introductory tutorial earlier at EACL24 in Malta! I'm very excited to contribute to building a community in this impactful new research area. 
 
 * I gave a talk on "[Language-Guided Scientific Discovery for Chemistry](https://twitter.com/CTC_Germany/status/1699412907652465054)" at the exciting new [Center for the Transformation of Chemistry](https://transforming-chemistry.org/)! [Here](https://cnedwards.com/files/CTC_talk_website.pdf) are the slides from my talk! In particular, I'm partial to [this key overview slide](https://cnedwards.com/files/CTC_key_slide.pdf). 
 
@@ -120,6 +122,14 @@ Carl Edwards\*, Tuan Lai\*, Kevin Ros, Garrett Honke, Kyunghyun Cho, and Heng Ji
 Carl Edwards, ChengXiang Zhai, and Heng Ji  
 *Proceedings of the 2021 Conference on Empirical Methods in Natural Language Processing (EMNLP). 2021.*  
 \[[pdf](https://aclanthology.org/2021.emnlp-main.47.pdf)\] \[[video - on underline](https://underline.io/events/192/posters/8244/poster/37985-text2mol-cross-modal-molecule-retrieval-with-natural-language-queries)\] \[[code](https://github.com/cnedwards/text2mol)\]
+
+### Defining a New NLP Playground  
+Sha Li, Chi Han, Pengfei Yu, Carl Edwards, Manling Li, Xingyao Wang, Yi Fung, Charles Yu, Joel R. Tetreault, Eduard H Hovy, and Heng Ji
+*Proceedings of the 2023 Conference on Empirical Methods in Natural Language Processing (EMNLP) Findings. 2023.*  
+
+### Monte Carlo Thought Search: Large Language Model Querying for Complex Scientific Reasoning in Catalyst Design
+Henry William Sprueill, Carl Edwards, Mariefel V Olarte, Udishnu Sanyal, Heng Ji, and Sutanay Choudhury  
+*Proceedings of the 2023 Conference on Empirical Methods in Natural Language Processing (EMNLP) Findings. 2023.*  
 
 ### Semi-supervised New Event Type Induction and Description via Contrastive Loss-Enforced Batch Attention
 Carl Edwards and Heng Ji  
