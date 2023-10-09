@@ -23,9 +23,9 @@ In terms of research interests, I am generally interested in models which levera
 
 News
 =====
-* Had the chance to contribute to two papers accepted to EMNLP findings! Thanks to my colleagues and collaborators!
-
 * I'll be organizing the first "Language + Molecules" workshop at ACL24 in Bangkok and presenting an introductory tutorial earlier at EACL24 in Malta! I'm very excited to contribute to building a community in this impactful new research area. 
+
+* Had the chance to contribute to two papers accepted to EMNLP findings! Thanks to my colleagues and collaborators!
 
 * I gave a talk on "[Language-Guided Scientific Discovery for Chemistry](https://twitter.com/CTC_Germany/status/1699412907652465054)" at the exciting new [Center for the Transformation of Chemistry](https://transforming-chemistry.org/)! [Here](https://cnedwards.com/files/CTC_talk_website.pdf) are the slides from my talk! In particular, I'm partial to [this key overview slide](https://cnedwards.com/files/CTC_key_slide.pdf). 
 
