@@ -126,6 +126,7 @@ Carl Edwards, ChengXiang Zhai, and Heng Ji
 ### Defining a New NLP Playground  
 Sha Li, Chi Han, Pengfei Yu, Carl Edwards, Manling Li, Xingyao Wang, Yi Fung, Charles Yu, Joel R. Tetreault, Eduard H Hovy, and Heng Ji
 *Proceedings of the 2023 Conference on Empirical Methods in Natural Language Processing (EMNLP) Findings. 2023.*  
+\[[pdf](https://blender.cs.illinois.edu/paper/newnlp2023.pdf)\]
 
 ### Monte Carlo Thought Search: Large Language Model Querying for Complex Scientific Reasoning in Catalyst Design
 Henry William Sprueill, Carl Edwards, Mariefel V Olarte, Udishnu Sanyal, Heng Ji, and Sutanay Choudhury  
