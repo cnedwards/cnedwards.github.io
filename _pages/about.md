@@ -130,6 +130,7 @@ Sha Li, Chi Han, Pengfei Yu, Carl Edwards, Manling Li, Xingyao Wang, Yi Fung, Ch
 ### Monte Carlo Thought Search: Large Language Model Querying for Complex Scientific Reasoning in Catalyst Design
 Henry William Sprueill, Carl Edwards, Mariefel V Olarte, Udishnu Sanyal, Heng Ji, and Sutanay Choudhury  
 *Proceedings of the 2023 Conference on Empirical Methods in Natural Language Processing (EMNLP) Findings. 2023.*  
+\[[pdf](https://arxiv.org/pdf/2310.14420.pdf)\] \[[code](https://github.com/pnnl/chemreasoner)\]
 
 ### Semi-supervised New Event Type Induction and Description via Contrastive Loss-Enforced Batch Attention
 Carl Edwards and Heng Ji  
