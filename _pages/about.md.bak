@@ -23,7 +23,7 @@ In terms of research interests, I am generally interested in models which levera
 
 News
 =====
-* I'll be organizing the first ["Language + Molecules" workshop at ACL24]() in Bangkok and presenting an introductory tutorial earlier at EACL24 in Malta! I'm very excited to contribute to building a community in this impactful new research area. 
+* I'll be organizing the first ["Language + Molecules" workshop at ACL24](https://language-plus-molecules.github.io/) in Bangkok and presenting an introductory tutorial earlier at EACL24 in Malta! I'm very excited to contribute to building a community in this impactful new research area. 
 
 * Had the chance to contribute to two papers accepted to EMNLP findings! Thanks to my colleagues and collaborators!
 
@@ -45,7 +45,7 @@ Research
 In the past, I've had the opportunity to work on a variety of exciting research projects!
 
 <h3>University of Illinois </h3>
-I've been working with the [Molecule Maker Lab Institute](https://moleculemaker.org/) on integrating molecule and text information. This includes work proposing cross-modal retrieval: [Text2Mol (EMNLP2021)](https://aclanthology.org/2021.emnlp-main.47/) 
+I've been working with the [Molecule Maker Lab Institute](https://moleculemaker.org/) on integrating molecule and text information. We're working on integrating new methodologies with real-world laboratory experimentation (stay tuned)! Past work includes proposing multiple novel tasks such as cross-modal retrieval: [Text2Mol (EMNLP2021)](https://aclanthology.org/2021.emnlp-main.47/) 
 
 <img src="https://cnedwards.com/images/text2mol_task.PNG?raw=true" alt="Text2Mol Task" style="width: 500px;"/> 
 
@@ -213,7 +213,17 @@ See other awards on my resume above.
 Service
 ======
 NSF Molecule Maker Laboratory Institute – Student and Postdoc Council Educational & Outreach 
-Activities Chair
+Activities Chair 2021-2023, Social Team Member 2023-present
+
+Organizing Committee: Language + Molecules Workshop at ACL 2024
+
+Program Committee: 
+
+ACL-IJCNLP 2021, ACL 2022, 2023, NAACL 2022, EACL 2023, NeurIPS 2023 AI4Science, GenBio
+
+Undergraduate Mentorship:
+o Summer 2023: Mentored three undergraduates on projects related to language-enabled protein
+design, language-molecule association rule mining, and scientific language model factuality evaluation and updating.
 
 Presentations to High School Students:
 
@@ -225,10 +235,9 @@ Presentations to Middle School Students:
 
 o Spring 2023: Two presentations on “Intro to AI for Chemistry” for underrepresented middle schoolers with The Well Experience and DREAAM.
 
+Outreach:
+o November 2023: Cena y Ciencias – Dual language outreach program presenting DIY Solar Cell activity
 
-Program Committee: 
-
-ACL-IJCNLP 2021, ACL 2022, 2023, NAACL 2022, EACL 2023
 
 <!---
 Activities
