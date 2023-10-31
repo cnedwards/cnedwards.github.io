@@ -212,14 +212,17 @@ See other awards on my resume above.
 
 Service
 ======
-NSF Molecule Maker Laboratory Institute – Student and Postdoc Council Educational & Outreach 
-Activities Chair 2021-2023, Social Team Member 2023-present
+NSF Molecule Maker Laboratory Institute:
+
+o Student and Postdoc Council Educational & Outreach Activities Chair 2021-2023, Social Team Member 2023-present
+o [Certificate of Public Engagement](https://cnedwards.com/images/MMLI-certificate5-768x1086.png)
+
 
 Organizing Committee: Language + Molecules Workshop at ACL 2024
 
-Program Committee: 
 
-ACL-IJCNLP 2021, ACL 2022, 2023, NAACL 2022, EACL 2023, NeurIPS 2023 AI4Science, GenBio
+Program Committee: 
+ACL-IJCNLP 2021, ACL 2022, 2023, NAACL 2022, EACL 2023, NeurIPS 2023 AI4Science, GenBio, AAAI 2023
 
 Undergraduate Mentorship:
 o Summer 2023: Mentored three undergraduates on projects related to language-enabled protein
@@ -236,6 +239,7 @@ Presentations to Middle School Students:
 o Spring 2023: Two presentations on “Intro to AI for Chemistry” for underrepresented middle schoolers with The Well Experience and DREAAM.
 
 Outreach:
+
 o November 2023: Cena y Ciencias – Dual language outreach program presenting DIY Solar Cell activity
 
 
