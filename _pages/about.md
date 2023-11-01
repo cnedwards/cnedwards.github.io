@@ -226,6 +226,7 @@ Program Committee:
 ACL-IJCNLP 2021, ACL 2022, 2023, NAACL 2022, EACL 2023, NeurIPS 2023 AI4Science, GenBio, AAAI 2023
 
 Undergraduate Mentorship:
+
 o Summer 2023: Mentored three undergraduates on projects related to language-enabled protein
 design, language-molecule association rule mining, and scientific language model factuality evaluation and updating.
 
