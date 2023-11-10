@@ -223,7 +223,7 @@ Organizing Committee: Language + Molecules Workshop at ACL 2024
 
 
 Program Committee: 
-ACL-IJCNLP 2021, ACL 2022, 2023, NAACL 2022, EACL 2023, NeurIPS 2023 AI4Science, GenBio, AAAI 2023
+ACL-IJCNLP 2021, ACL 2022, 2023, NAACL 2022, EACL 2023, NeurIPS 2023 AI4Science, GenBio, AAAI 2024
 
 Undergraduate Mentorship:
 

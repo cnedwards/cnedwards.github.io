@@ -216,7 +216,7 @@ NSF Molecule Maker Laboratory Institute:
 
 o Student and Postdoc Council Educational & Outreach Activities Chair 2021-2023, Social Team Member 2023-present
 
-o [Certificate of Public Engagement](https://cnedwards.com/images/MMLI-certificate5-768x1086.png)
+o [Certificate of Public Engagement](https://cnedwards.com/files/MMLI_cert.pdf)
 
 
 Organizing Committee: Language + Molecules Workshop at ACL 2024
