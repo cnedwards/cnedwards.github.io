@@ -163,12 +163,13 @@ Advertisements, C. Edwards, A. Wertz, and A. Dubrawski, <i>Robotics Institute Su
 \[[pdf](https://riss.ri.cmu.edu/wp-content/uploads/2019/11/2019-riss-final-journal-aA.pdf)\]
 
 
-<!---
+
 <h2>Presentations </h2>
 
-Out-of-plane rotational motion in shear flow of polymer melts and solutions, M.H. Nafar Sefiddashti, C.N. Edwards, B.J. Edwards, and B. Khomami, The Society of Rheology 89th Annual Meeting, Denver, CO, October 8-12, 2017. 
+Integrating generative AI with computational chemistry for catalyst design in biofuel/bioproduct applications. Sprueill H.W., C. Edwards, M.V. Olarte, U. Sanyal, H. Ji, and S. Choudhury. American Chemical Society Spring 2024 National Meeting, New Orleans, Louisiana. March 18, 2024. 
 
--->
+Out-of-plane rotational motion in shear flow of polymer melts and solutions. M.H. Nafar Sefiddashti, C.N. Edwards, B.J. Edwards, and B. Khomami, The Society of Rheology 89th Annual Meeting, Denver, CO, October 8-12, 2017. 
+
 
 <h2>Posters </h2>
 [MolT5](https://cnedwards.com/files/MolT5_poster.pdf)
@@ -180,6 +181,8 @@ Out-of-plane rotational motion in shear flow of polymer melts and solutions, M.H
 [Using Similarity Measures to Detect Organizations in Online Escort Advertisements](https://riss.ri.cmu.edu/wp-content/uploads/2019/08/2019-RISS-poster-EDWARDS-Carl-DUBRAWSKI.pdf)
 
 [Subarrayed Radar Arrays Beam Optimization](https://cnedwards.com/files/ORNL_SULI_Poster.pdf)
+
+Extreme-Scale Heterogeneous Inference with Large Language Models and Atomistic Graph Neural Networks for Catalyst Discovery. Sprueill H.W., C. Edwards, M.V. Olarte, U. Sanyal, K. Agarwal, H. Ji, and S. Choudhury. 03/18/2024. American Chemical Society Spring 2024 National Meeting, New Orleans, Louisiana.
 
 
 <h2> Other </h2>
