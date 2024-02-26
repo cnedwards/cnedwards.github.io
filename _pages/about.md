@@ -104,6 +104,11 @@ Publications, Posters, etc.
 
 <h2> Preprint </h2>
 
+### ChemReasoner: Heuristic Search over a Large Language Model's Knowledge Space using Quantum-Chemical Feedback
+Henry W. Sprueill, Carl Edwards, Khushbu Agarwal, Mariefel V. Olarte, Udishnu Sanyal, Conrad Johnston, Hongbin Liu, Heng Ji, and Sutanay Choudhury
+*arXiv preprint arXiv:2402.10980. 2024.*  
+\[[pdf](https://arxiv.org/pdf/2402.10980.pdf)\] 
+
 ### SynerGPT: In-Context Learning for Personalized Drug Synergy Prediction and Drug Design
 Carl Edwards, Aakanksha Naik, Tushar Khot, Martin D Burke, Heng Ji, and Tom Hope  
 *bioRxiv, 2023. doi: 10.1101/2023.07.06.547759. 2023.*  
@@ -229,7 +234,7 @@ Organizing Committee: Language + Molecules Workshop at ACL 2024
 
 
 Program Committee: 
-ACL-IJCNLP 2021, ACL 2022, 2023, NAACL 2022, EACL 2023, NeurIPS 2023 AI4Science, GenBio, AAAI 2024
+ACL-IJCNLP 2021, ACL 2022, 2023, NAACL 2022, EACL 2023, 2024, NeurIPS 2023 AI4Science, GenBio, AAAI 2024
 
 Undergraduate Mentorship:
 
