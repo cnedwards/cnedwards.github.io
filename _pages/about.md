@@ -27,15 +27,12 @@ News
 
 <img src="https://cnedwards.com/images/logo3_inkscape_background.png?raw=true" alt="L+M Logo" style="width: 200px;"/> 
 
-
-* Had the chance to contribute to two papers accepted to EMNLP findings! Thanks to my colleagues and collaborators!
+*I'll be interning at Genentech this summer on the AI research team.*
 
 * I gave a talk on "[Language-Guided Scientific Discovery for Chemistry](https://twitter.com/CTC_Germany/status/1699412907652465054)" at the exciting new [Center for the Transformation of Chemistry](https://transforming-chemistry.org/)! [Here](https://cnedwards.com/files/CTC_talk_website.pdf) are the slides from my talk! In particular, I'm partial to [this key overview slide](https://cnedwards.com/files/CTC_key_slide.pdf). 
 
 * I'm excited to have contributed to the exciting "[Artificial Intelligence for Science in Quantum, Atomistic, and Continuum Systems
 ](https://arxiv.org/abs/2307.08423)" survey! Particularly, my contribution focused on the " Natural Language-Guided Scientific Discovery" section.
-
-* I've released a new preprint: "[SynerGPT: In-Context Learning for Personalized Drug Synergy Prediction and Drug Design](https://www.biorxiv.org/content/10.1101/2023.07.06.547759v1)". Thanks to my collaborators at AI2 and UIUC for making it possible!
 
 
 Resume
