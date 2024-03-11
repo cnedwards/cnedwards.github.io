@@ -29,11 +29,17 @@ News
 
 * I'll be interning at Genentech this summer on the AI research team.
 
+<img src="https://cnedwards.com/images/genentech-logo.png?raw=true" alt="Genentech Logo" style="width: 200px;"/> 
+
 * I gave a talk on "[Language-Guided Scientific Discovery for Chemistry](https://twitter.com/CTC_Germany/status/1699412907652465054)" at the exciting new [Center for the Transformation of Chemistry](https://transforming-chemistry.org/)! [Here](https://cnedwards.com/files/CTC_talk_website.pdf) are the slides from my talk! In particular, I'm partial to [this key overview slide](https://cnedwards.com/files/CTC_key_slide.pdf). 
+
+<img src="https://cnedwards.com/images/CTC.png?raw=true" alt="CTC Logo" style="width: 200px;"/> 
+
 
 * I'm excited to have contributed to the exciting "[Artificial Intelligence for Science in Quantum, Atomistic, and Continuum Systems
 ](https://arxiv.org/abs/2307.08423)" survey! Particularly, my contribution focused on the " Natural Language-Guided Scientific Discovery" section.
 
+<img src="https://cnedwards.com/images/CTC.png?raw=true" alt="CTC Logo" style="width: 200px;"/> 
 
 Resume
 ======
