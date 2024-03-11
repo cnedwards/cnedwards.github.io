@@ -27,7 +27,7 @@ News
 
 <img src="https://cnedwards.com/images/logo3_inkscape_background.png?raw=true" alt="L+M Logo" style="width: 200px;"/> 
 
-* I'll be interning at Genentech this summer on the AI research team.
+* I'll be interning at Genentech this summer on the AI research team. Excited to learn more about drug discovery in industry and hopefully do something impactful!
 
 <img src="https://cnedwards.com/images/genentech-logo.png?raw=true" alt="Genentech Logo" style="width: 200px;"/> 
 
