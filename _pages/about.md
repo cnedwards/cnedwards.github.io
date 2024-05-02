@@ -23,6 +23,8 @@ In terms of research interests, I am generally interested in models which levera
 
 News
 =====
+* Excited to have [Chemreasoner](https://arxiv.org/abs/2402.10980) accepted at ICML24! Really excited about this direction of integrating simulations with LLMs for molecular discovery!
+
 * I'll be organizing the first ["Language + Molecules" workshop at ACL24](https://language-plus-molecules.github.io/) in Bangkok and presenting an introductory tutorial earlier at EACL24 in Malta! I'm very excited to contribute to building a community in this impactful new research area. 
 
 <img src="https://cnedwards.com/images/logo3_inkscape_background.png?raw=true" alt="L+M Logo" style="width: 200px;"/> 
@@ -106,11 +108,6 @@ Publications, Posters, etc.
 
 <h2> Preprint </h2>
 
-### ChemReasoner: Heuristic Search over a Large Language Model's Knowledge Space using Quantum-Chemical Feedback
-Henry W. Sprueill, Carl Edwards, Khushbu Agarwal, Mariefel V. Olarte, Udishnu Sanyal, Conrad Johnston, Hongbin Liu, Heng Ji, and Sutanay Choudhury
-*arXiv preprint arXiv:2402.10980. 2024.*  
-\[[pdf](https://arxiv.org/pdf/2402.10980.pdf)\] 
-
 ### SynerGPT: In-Context Learning for Personalized Drug Synergy Prediction and Drug Design
 Carl Edwards, Aakanksha Naik, Tushar Khot, Martin D Burke, Heng Ji, and Tom Hope  
 *bioRxiv, 2023. doi: 10.1101/2023.07.06.547759. 2023.*  
@@ -132,6 +129,11 @@ Carl Edwards\*, Tuan Lai\*, Kevin Ros, Garrett Honke, Kyunghyun Cho, and Heng Ji
 Carl Edwards, ChengXiang Zhai, and Heng Ji  
 *Proceedings of the 2021 Conference on Empirical Methods in Natural Language Processing (EMNLP). 2021.*  
 \[[pdf](https://aclanthology.org/2021.emnlp-main.47.pdf)\] \[[video - on underline](https://underline.io/events/192/posters/8244/poster/37985-text2mol-cross-modal-molecule-retrieval-with-natural-language-queries)\] \[[code](https://github.com/cnedwards/text2mol)\]
+
+### ChemReasoner: Heuristic Search over a Large Language Model's Knowledge Space using Quantum-Chemical Feedback
+Henry W. Sprueill, Carl Edwards, Khushbu Agarwal, Mariefel V. Olarte, Udishnu Sanyal, Conrad Johnston, Hongbin Liu, Heng Ji, and Sutanay Choudhury
+*Proceedings of the 2024 Internation Conference on Machine Learning (ICML). 2024.*  
+\[[pdf](https://arxiv.org/pdf/2402.10980.pdf)\] 
 
 ### Defining a New NLP Playground  
 Sha Li, Chi Han, Pengfei Yu, Carl Edwards, Manling Li, Xingyao Wang, Yi Fung, Charles Yu, Joel R. Tetreault, Eduard H Hovy, and Heng Ji
