@@ -108,15 +108,10 @@ Publications, Posters, etc.
 
 <h2> Preprint </h2>
 
-### SynerGPT: In-Context Learning for Personalized Drug Synergy Prediction and Drug Design
-Carl Edwards, Aakanksha Naik, Tushar Khot, Martin D Burke, Heng Ji, and Tom Hope  
-*bioRxiv, 2023. doi: 10.1101/2023.07.06.547759. 2023.*  
-\[[pdf](https://www.biorxiv.org/content/early/2023/07/07/2023.07.06.547759)\] 
-
 ### Artificial Intelligence for Science in Quantum, Atomistic, and Continuum Systems
 Xuan Zhang, Limei Wang, Jacob Helwig, Youzhi Luo, Cong Fu, Yaochen Xie, [...], **Carl Edwards**, [...], Alán Aspuru-Guzik, Erik Bekkers, Michael Bronstein, Marinka Zitnik, Anima Anandkumar, Stefano Ermon, Pietro Liò, Rose Yu, Stephan Günnemann, Jure Leskovec, Heng Ji, Jimeng Sun, Regina Barzilay, Tommi Jaakkola, Connor W. Coley, Xiaoning Qian, Xiaofeng Qian, Tess Smidt, and Shuiwang Ji  
 *arXiv preprint arXiv:2307.08423. 2023.*  
-\[[pdf](https://arxiv.org/abs/2307.08423)\]  
+\[[pdf](https://arxiv.org/abs/2307.08423)\]
 
 <h2> Conference </h2>
 
@@ -129,6 +124,11 @@ Carl Edwards\*, Tuan Lai\*, Kevin Ros, Garrett Honke, Kyunghyun Cho, and Heng Ji
 Carl Edwards, ChengXiang Zhai, and Heng Ji  
 *Proceedings of the 2021 Conference on Empirical Methods in Natural Language Processing (EMNLP). 2021.*  
 \[[pdf](https://aclanthology.org/2021.emnlp-main.47.pdf)\] \[[video - on underline](https://underline.io/events/192/posters/8244/poster/37985-text2mol-cross-modal-molecule-retrieval-with-natural-language-queries)\] \[[code](https://github.com/cnedwards/text2mol)\]
+
+### SynerGPT: In-Context Learning for Personalized Drug Synergy Prediction and Drug Design
+Carl Edwards, Aakanksha Naik, Tushar Khot, Martin D Burke, Heng Ji, and Tom Hope  
+*Proceedings of the First Conference on Language Modeling (COLM). 2022.*  
+\[[pdf](https://arxiv.org/abs/2307.11694)\] 
 
 ### ChemReasoner: Heuristic Search over a Large Language Model's Knowledge Space using Quantum-Chemical Feedback
 Henry W. Sprueill, Carl Edwards, Khushbu Agarwal, Mariefel V. Olarte, Udishnu Sanyal, Conrad Johnston, Hongbin Liu, Heng Ji, and Sutanay Choudhury
@@ -238,7 +238,7 @@ Organizing Committee: Language + Molecules Workshop at ACL 2024
 
 
 Program Committee: 
-ACL-IJCNLP 2021, ACL 2022, 2023, NAACL 2022, EACL 2023-2024, NeurIPS 2023 AI4Science, GenBio, AAAI 2024, ACL Rolling Review, ICML 2024 AI4Science
+ACL-IJCNLP 2021, ACL 2022-2024, NAACL 2022, EACL 2023-2024, NeurIPS 2023 AI4Science, GenBio, AAAI 2024, ACL Rolling Review, ICML 2024 AI4Science
 
 Undergraduate Mentorship:
 
