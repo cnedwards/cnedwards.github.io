@@ -109,12 +109,12 @@ Publications, Posters, etc.
 <h2> Preprint </h2>
 
 ### MolCap-Arena: A Comprehensive Captioning Benchmark on Language-Enhanced Molecular Property Prediction
-Carl Edwards, Ziqing Lu, Ehsan Hajiramezanali, Tommaso Biancalani, Heng Ji, Gabriele Scalia
+Carl Edwards, Ziqing Lu, Ehsan Hajiramezanali, Tommaso Biancalani, Heng Ji, Gabriele Scalia  
 *arXiv preprint arXiv:2411.00737. 2024.*  
 \[[pdf](https://arxiv.org/abs/2411.00737)\]
 
 ### Geometry Informed Tokenization of Molecules for Language Model Generation
-Xiner Li, Limei Wang, Youzhi Luo, Carl Edwards, Shurui Gui, Yuchao Lin, Heng Ji, Shuiwang Ji
+Xiner Li, Limei Wang, Youzhi Luo, Carl Edwards, Shurui Gui, Yuchao Lin, Heng Ji, Shuiwang Ji  
 *arXiv preprint arXiv:2408.10120. 2024.*  
 \[[pdf](https://arxiv.org/abs/2408.10120)\]
 
