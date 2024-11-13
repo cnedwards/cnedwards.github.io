@@ -108,6 +108,16 @@ Publications, Posters, etc.
 
 <h2> Preprint </h2>
 
+### MolCap-Arena: A Comprehensive Captioning Benchmark on Language-Enhanced Molecular Property Prediction
+Carl Edwards, Ziqing Lu, Ehsan Hajiramezanali, Tommaso Biancalani, Heng Ji, Gabriele Scalia
+*arXiv preprint arXiv:2411.00737. 2024.*  
+\[[pdf](https://arxiv.org/abs/2411.00737)\]
+
+### Geometry Informed Tokenization of Molecules for Language Model Generation
+Xiner Li, Limei Wang, Youzhi Luo, Carl Edwards, Shurui Gui, Yuchao Lin, Heng Ji, Shuiwang Ji
+*arXiv preprint arXiv:2408.10120. 2024.*  
+\[[pdf](https://arxiv.org/abs/2408.10120)\]
+
 ### Artificial Intelligence for Science in Quantum, Atomistic, and Continuum Systems
 Xuan Zhang, Limei Wang, Jacob Helwig, Youzhi Luo, Cong Fu, Yaochen Xie, [...], **Carl Edwards**, [...], Alán Aspuru-Guzik, Erik Bekkers, Michael Bronstein, Marinka Zitnik, Anima Anandkumar, Stefano Ermon, Pietro Liò, Rose Yu, Stephan Günnemann, Jure Leskovec, Heng Ji, Jimeng Sun, Regina Barzilay, Tommi Jaakkola, Connor W. Coley, Xiaoning Qian, Xiaofeng Qian, Tess Smidt, and Shuiwang Ji  
 *arXiv preprint arXiv:2307.08423. 2023.*  
@@ -125,10 +135,20 @@ Carl Edwards, ChengXiang Zhai, and Heng Ji
 *Proceedings of the 2021 Conference on Empirical Methods in Natural Language Processing (EMNLP). 2021.*  
 \[[pdf](https://aclanthology.org/2021.emnlp-main.47.pdf)\] \[[video - on underline](https://underline.io/events/192/posters/8244/poster/37985-text2mol-cross-modal-molecule-retrieval-with-natural-language-queries)\] \[[code](https://github.com/cnedwards/text2mol)\]
 
+### L+M-24: Building a Dataset for Language+Molecules @ ACL 2024
+Carl Edwards, Qingyun Wang, Lawrence Zhao, Heng Ji
+*Proceedings of the 1st Workshop on Language + Molecules (L+M 2024) at ACL 2024. 2024.*  
+\[[pdf](https://aclanthology.org/2024.langmol-1.1v2.pdf)\] \[[code](https://github.com/language-plus-molecules/LPM-24-Dataset)\]
+
 ### SynerGPT: In-Context Learning for Personalized Drug Synergy Prediction and Drug Design
 Carl Edwards, Aakanksha Naik, Tushar Khot, Martin D Burke, Heng Ji, and Tom Hope  
 *Proceedings of the First Conference on Language Modeling (COLM). 2024.*  
 \[[pdf](https://arxiv.org/abs/2307.11694)\] 
+
+### GLaD: Synergizing Molecular Graphs and Language Descriptors for Enhanced Power Conversion Efficiency Prediction in Organic Photovoltaic Devices
+Thao Nguyen, Tiara Torres-Flores, Changhyun Hwang, Carl Edwards, Ying Diao, Heng Ji  
+*Proceedings of the 33rd ACM International Conference on Information and Knowledge Management (CIKM). 2024.*  
+\[[pdf](https://dl.acm.org/doi/pdf/10.1145/3627673.3680103)\] 
 
 ### ChemReasoner: Heuristic Search over a Large Language Model's Knowledge Space using Quantum-Chemical Feedback
 Henry W. Sprueill, Carl Edwards, Khushbu Agarwal, Mariefel V. Olarte, Udishnu Sanyal, Conrad Johnston, Hongbin Liu, Heng Ji, and Sutanay Choudhury
@@ -240,7 +260,7 @@ Organizing Committee: Language + Molecules Workshop at ACL 2024
 
 
 Program Committee: 
-ACL-IJCNLP 2021, ACL 2022-2024, NAACL 2022, EACL 2023-2024, NeurIPS 2023 AI4Science, GenBio, AAAI 2024, ACL Rolling Review, ICML 2024 AI4Science
+ACL-IJCNLP 2021, ACL 2022-2024, NAACL 2022, 2024, EACL 2023-2024, NeurIPS 2023 AI4Science, GenBio, AAAI 2024-25, ACL Rolling Review, ICML 2024 AI4Science
 
 Undergraduate Mentorship:
 
