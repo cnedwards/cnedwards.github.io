@@ -5,6 +5,20 @@ permalink: /research/
 author_profile: true
 ---
 
+
+<!---
+{% if author.googlescholar %}
+  You can also find my articles on <u><a href="{{author.googlescholar}}">my Google Scholar profile</a>.</u>
+{% endif %}
+
+{% include base_path %}
+
+{% for post in site.publications reversed %}
+  {% include archive-single.html %}
+{% endfor %}
+-->
+
+
 In the past, I've had the opportunity to work on a variety of exciting research projects!
 
 <h3>University of Illinois </h3>
@@ -57,19 +71,3 @@ From fall 2016 to spring 2018, I worked as an undergraduate research assistant. 
 <img src="https://cnedwards.com/images/phase_detection.PNG?raw=true" alt="Photo" style="width: 450px;"/> 
 
 [Video](https://cnedwards.com/files/Nemd-1-10-100-1000-1.mp4)
-
-
-
-
-<!---
-{% if author.googlescholar %}
-  You can also find my articles on <u><a href="{{author.googlescholar}}">my Google Scholar profile</a>.</u>
-{% endif %}
-
-{% include base_path %}
-
-{% for post in site.publications reversed %}
-  {% include archive-single.html %}
-{% endfor %}
--->
-
