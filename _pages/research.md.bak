@@ -5,21 +5,15 @@ permalink: /research/
 author_profile: true
 ---
 
-
-<!---
-{% if author.googlescholar %}
-  You can also find my articles on <u><a href="{{author.googlescholar}}">my Google Scholar profile</a>.</u>
-{% endif %}
-
-{% include base_path %}
-
-{% for post in site.publications reversed %}
-  {% include archive-single.html %}
-{% endfor %}
--->
-
-
 In the past, I've had the opportunity to work on a variety of exciting research projects!
+
+
+<h3>Genentech </h3>
+
+At Genentech, I worked on benchmarking the capability of molecule captions to enhance property prediction. 
+
+<img src="https://github.com/Genentech/molcap-arena/blob/main/figure.png" alt="Text2Mol Task" style="width: 500px;"/> 
+
 
 <h3>University of Illinois </h3>
 I've been working with the [Molecule Maker Lab Institute](https://moleculemaker.org/) on integrating molecule and text information. We're working on integrating new methodologies with real-world laboratory experimentation for drug and material discovery (stay tuned)! Past work includes proposing multiple novel tasks such as cross-modal retrieval: [Text2Mol (EMNLP2021)](https://aclanthology.org/2021.emnlp-main.47/) 
@@ -71,3 +65,19 @@ From fall 2016 to spring 2018, I worked as an undergraduate research assistant. 
 <img src="https://cnedwards.com/images/phase_detection.PNG?raw=true" alt="Photo" style="width: 450px;"/> 
 
 [Video](https://cnedwards.com/files/Nemd-1-10-100-1000-1.mp4)
+
+
+
+
+<!---
+{% if author.googlescholar %}
+  You can also find my articles on <u><a href="{{author.googlescholar}}">my Google Scholar profile</a>.</u>
+{% endif %}
+
+{% include base_path %}
+
+{% for post in site.publications reversed %}
+  {% include archive-single.html %}
+{% endfor %}
+-->
+

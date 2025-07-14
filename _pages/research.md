@@ -7,6 +7,14 @@ author_profile: true
 
 In the past, I've had the opportunity to work on a variety of exciting research projects!
 
+
+<h3>Genentech </h3>
+
+At Genentech, I worked on benchmarking the capability of molecule captions to enhance property prediction. 
+
+<img src="https://github.com/Genentech/molcap-arena/blob/main/figure.png" alt="MolCapArena" style="width: 500px;"/> 
+
+
 <h3>University of Illinois </h3>
 I've been working with the [Molecule Maker Lab Institute](https://moleculemaker.org/) on integrating molecule and text information. We're working on integrating new methodologies with real-world laboratory experimentation for drug and material discovery (stay tuned)! Past work includes proposing multiple novel tasks such as cross-modal retrieval: [Text2Mol (EMNLP2021)](https://aclanthology.org/2021.emnlp-main.47/) 
 

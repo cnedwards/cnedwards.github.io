@@ -16,26 +16,18 @@ author_profile: true
 {% for post in site.publications reversed %}
   {% include archive-single.html %}
 {% endfor %}
+
 -->
 
+My [Google Scholar](https://scholar.google.com/citations?user=-y9uTwEAAAAJ&hl=en) is kept better updated.  
 
 
 <h2> Preprint </h2>
 
-### MolCap-Arena: A Comprehensive Captioning Benchmark on Language-Enhanced Molecular Property Prediction
-Carl Edwards, Ziqing Lu, Ehsan Hajiramezanali, Tommaso Biancalani, Heng Ji, Gabriele Scalia  
-*arXiv preprint arXiv:2411.00737. 2024.*  
-\[[pdf](https://arxiv.org/abs/2411.00737)\]
-
-### Geometry Informed Tokenization of Molecules for Language Model Generation
-Xiner Li, Limei Wang, Youzhi Luo, Carl Edwards, Shurui Gui, Yuchao Lin, Heng Ji, Shuiwang Ji  
-*arXiv preprint arXiv:2408.10120. 2024.*  
-\[[pdf](https://arxiv.org/abs/2408.10120)\]
-
 ### Artificial Intelligence for Science in Quantum, Atomistic, and Continuum Systems
-Xuan Zhang, Limei Wang, Jacob Helwig, Youzhi Luo, Cong Fu, Yaochen Xie, [...], **Carl Edwards**, [...], Alán Aspuru-Guzik, Erik Bekkers, Michael Bronstein, Marinka Zitnik, Anima Anandkumar, Stefano Ermon, Pietro Liò, Rose Yu, Stephan Günnemann, Jure Leskovec, Heng Ji, Jimeng Sun, Regina Barzilay, Tommi Jaakkola, Connor W. Coley, Xiaoning Qian, Xiaofeng Qian, Tess Smidt, and Shuiwang Ji  
-*arXiv preprint arXiv:2307.08423. 2023.*  
-\[[pdf](https://arxiv.org/abs/2307.08423)\]
+Carl Edwards, Chi Han, Gawon Lee, Thao Nguyen, Bowen Jin, Chetan Kumar Prasad, Sara Szymkuć, Bartosz A. Grzybowski, Ying Diao, Jiawei Han, Ge Liu, Hao Peng, Martin D. Burke, and Heng Ji  
+*arXiv preprint arXiv:2505.12565. 2025.*  
+\[[pdf](https://arxiv.org/abs/2505.12565)\]
 
 <h2> Conference </h2>
 
@@ -59,10 +51,20 @@ Carl Edwards, Aakanksha Naik, Tushar Khot, Martin D Burke, Heng Ji, and Tom Hope
 *Proceedings of the First Conference on Language Modeling (COLM). 2024.*  
 \[[pdf](https://arxiv.org/abs/2307.11694)\] 
 
+### MolCap-Arena: A Comprehensive Captioning Benchmark on Language-Enhanced Molecular Property Prediction
+Carl Edwards, Ziqing Lu, Ehsan Hajiramezanali, Tommaso Biancalani, Heng Ji, Gabriele Scalia  
+*ICLR Workshop on Machine Learning for Genomics Explorations (MLGenX). 2025.*  
+\[[pdf](https://arxiv.org/abs/2411.00737)\]
+
 ### L+M-24: Building a Dataset for Language+Molecules @ ACL 2024
 Carl Edwards, Qingyun Wang, Lawrence Zhao, Heng Ji
 *Proceedings of the 1st Workshop on Language + Molecules (L+M 2024) at ACL 2024. 2024.*  
 \[[pdf](https://aclanthology.org/2024.langmol-1.1v2.pdf)\] \[[code](https://github.com/language-plus-molecules/LPM-24-Dataset)\]
+
+### Geometry Informed Tokenization of Molecules for Language Model Generation
+Xiner Li, Limei Wang, Youzhi Luo, Carl Edwards, Shurui Gui, Yuchao Lin, Heng Ji, Shuiwang Ji  
+*Proceedings of The Forty-second International Conference on Machine Learning (ICML). 2025.*  
+\[[pdf](https://arxiv.org/abs/2408.10120)\]
 
 ### GLaD: Synergizing Molecular Graphs and Language Descriptors for Enhanced Power Conversion Efficiency Prediction in Organic Photovoltaic Devices
 Thao Nguyen, Tiara Torres-Flores, Changhyun Hwang, Carl Edwards, Ying Diao, Heng Ji  
@@ -103,11 +105,18 @@ Xinya Du, Zixuan Zhang, Sha Li, Pengfei Yu, Hongwei Wang, Tuan Manh Lai, Xudong 
 
 <h2>Journal Article</h2>
 
-In-plane and out-of-plane rotational motion of individual chain molecules in steady shear flow of polymer melts and solutions
+### In-plane and out-of-plane rotational motion of individual chain molecules in steady shear flow of polymer melts and solutions
 C.N. Edwards, M.H. Nafar Sefiddashti, B.J. Edwards, and B. Khomami, <i>J. Mol. Graph. Model.</i>, 81, 184-196 (2018).  
 \[[link](https://www.sciencedirect.com/science/article/pii/S1093326318300470)\]
 
-Using Similarity Measures to Detect Organizations in Online Escort
+
+### Artificial Intelligence for Science in Quantum, Atomistic, and Continuum Systems
+Xuan Zhang, Limei Wang, Jacob Helwig, Youzhi Luo, Cong Fu, Yaochen Xie, [...], **Carl Edwards**, [...], Alán Aspuru-Guzik, Erik Bekkers, Michael Bronstein, Marinka Zitnik, Anima Anandkumar, Stefano Ermon, Pietro Liò, Rose Yu, Stephan Günnemann, Jure Leskovec, Heng Ji, Jimeng Sun, Regina Barzilay, Tommi Jaakkola, Connor W. Coley, Xiaoning Qian, Xiaofeng Qian, Tess Smidt, and Shuiwang Ji  
+*Foundations and Trends in Machine Learning. 2025.*  
+\[[pdf](https://arxiv.org/abs/2307.08423)\]
+
+
+### Using Similarity Measures to Detect Organizations in Online Escort
 Advertisements
 C. Edwards, A. Wertz, and A. Dubrawski, <i>Robotics Institute Summer Scholar’ Working Papers Journal</i>, 7, 43-49 (2019).  
 \[[pdf](https://riss.ri.cmu.edu/wp-content/uploads/2019/11/2019-riss-final-journal-aA.pdf)\]
