@@ -8,7 +8,7 @@ author_profile: true
 
 
 Activities
-======
+=====
 
 
 Motorcycle
@@ -22,7 +22,7 @@ Classical Singing
 
 Ballroom Dancing
 
-<img src="https://cnedwards.com/images/indigo.jpg?raw=true" alt="Photo" style="width: 450px;"/> 
+<img src="https://cnedwards.com/images/dance_ribbon.JPEG?raw=true" alt="Photo" style="width: 450px;"/> 
 
 
 Birdwatching
@@ -38,8 +38,8 @@ Martial Arts
 </p>
 
 
-Involvements
-======
+## Involvements
+
 
 <h3>UTK Machine Learning Club</h3>
 
@@ -66,8 +66,8 @@ FIRST Robotics
 
 
 
-Random Projects
-======
+## Random Projects
+
 Multimodal Molecule Reaction Prediction from Knowledge Graph of Reactions
 [\[Proposal\]](https://cnedwards.com/files/Edwards_512_Project_Proposal.pdf)
 [\[Report\]](https://cnedwards.com/files/Edwards_512_Project_Final_Report.pdf)
@@ -81,7 +81,7 @@ Multimodal Molecule Reaction Prediction from Knowledge Graph of Reactions
 
 <h3>High School Projects</h3>
 
-Neural networks looking for food 
+[Neural networks looking for food](https://github.com/cnedwards/LivingNeuralNets)
 
 [<img src="https://cnedwards.com/images/nn.jpg?raw=true" alt="Photo" style="width: 450px;"/> ](https://cnedwards.com/files/neuralnets_video.mp4)
 

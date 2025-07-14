@@ -7,8 +7,7 @@ author_profile: true
 
 
 
-Travel
-======
+## Travel
 
 [iCloud Album](https://www.icloud.com/sharedalbum/#B2BJtdOXmwg64B)  
 

@@ -116,8 +116,7 @@ Xuan Zhang, Limei Wang, Jacob Helwig, Youzhi Luo, Cong Fu, Yaochen Xie, [...], *
 \[[pdf](https://arxiv.org/abs/2307.08423)\]
 
 
-### Using Similarity Measures to Detect Organizations in Online Escort
-Advertisements
+### Using Similarity Measures to Detect Organizations in Online Escort Advertisements
 C. Edwards, A. Wertz, and A. Dubrawski, <i>Robotics Institute Summer Scholar’ Working Papers Journal</i>, 7, 43-49 (2019).  
 \[[pdf](https://riss.ri.cmu.edu/wp-content/uploads/2019/11/2019-riss-final-journal-aA.pdf)\]
 
