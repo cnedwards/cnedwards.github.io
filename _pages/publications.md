@@ -24,7 +24,7 @@ My [Google Scholar](https://scholar.google.com/citations?user=-y9uTwEAAAAJ&hl=en
 
 <h2> Preprint </h2>
 
-### Artificial Intelligence for Science in Quantum, Atomistic, and Continuum Systems
+### mCLM: A Function-Infused and Synthesis-Friendly Modular Chemical Language Model
 Carl Edwards, Chi Han, Gawon Lee, Thao Nguyen, Bowen Jin, Chetan Kumar Prasad, Sara Szymkuć, Bartosz A. Grzybowski, Ying Diao, Jiawei Han, Ge Liu, Hao Peng, Martin D. Burke, and Heng Ji  
 *arXiv preprint arXiv:2505.12565. 2025.*  
 \[[pdf](https://arxiv.org/abs/2505.12565)\]
