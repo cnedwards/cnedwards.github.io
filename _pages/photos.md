@@ -10,5 +10,7 @@ author_profile: true
 
 [iCloud Album](https://www.icloud.com/sharedalbum/#B2BJtdOXmwg64B)  
 
+Note: you can click the points to see photos. 
+
 <iframe src="https://cnedwards.com/files/photo_map_online.html" width="100%" height="600"></iframe>
 
