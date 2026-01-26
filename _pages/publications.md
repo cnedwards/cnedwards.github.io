@@ -44,7 +44,7 @@ Carl Edwards, ChengXiang Zhai, and Heng Ji
 \[[pdf](https://aclanthology.org/2021.emnlp-main.47.pdf)\] \[[video - on underline](https://underline.io/events/192/posters/8244/poster/37985-text2mol-cross-modal-molecule-retrieval-with-natural-language-queries)\] \[[code](https://github.com/cnedwards/text2mol)\]
 
 ### mCLM: A Function-Infused and Synthesis-Friendly Modular Chemical Language Model
-Carl Edwards, Chi Han, Gawon Lee, Thao Nguyen, Sara Szymkuć, Chetan Kumar Prasad, Bowen Jin, Jiawei Han, Ying Diao, Ge Liu, Hao Peng, Bartosz A. Grzybowski, Martin D. Burke, Heng Ji
+Carl Edwards, Chi Han, Gawon Lee, Thao Nguyen, Sara Szymkuć, Chetan Kumar Prasad, Bowen Jin, Jiawei Han, Ying Diao, Ge Liu, Hao Peng, Bartosz A. Grzybowski, Martin D. Burke, Heng Ji  
 *Proceedings of the 2026 The Fourteenth International Conference on Learning Representations (ICLR). 2026.*  
 \[[pdf](https://arxiv.org/abs/2505.12565)\]
 
