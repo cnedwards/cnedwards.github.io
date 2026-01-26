@@ -25,7 +25,7 @@ My [Google Scholar](https://scholar.google.com/citations?user=oMErt30AAAAJ) is k
 <h2> Preprint </h2>
 
 ### oMeBench: Towards Robust Benchmarking of LLMs in Organic Mechanism Elucidation and Reasoning
-Ruiling Xu, Yifan Zhang, Qingyun Wang, Carl Edwards, Heng Ji
+Ruiling Xu, Yifan Zhang, Qingyun Wang, Carl Edwards, Heng Ji  
 *arXiv preprint arXiv:2510.07731. 2025.*  
 \[[pdf](https://arxiv.org/abs/2510.07731)\]
 
