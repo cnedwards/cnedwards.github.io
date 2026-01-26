@@ -24,12 +24,14 @@ My [Google Scholar](https://scholar.google.com/citations?user=oMErt30AAAAJ) is k
 
 <h2> Preprint </h2>
 
-### mCLM: A Function-Infused and Synthesis-Friendly Modular Chemical Language Model
-Carl Edwards, Chi Han, Gawon Lee, Thao Nguyen, Bowen Jin, Chetan Kumar Prasad, Sara Szymkuć, Bartosz A. Grzybowski, Ying Diao, Jiawei Han, Ge Liu, Hao Peng, Martin D. Burke, and Heng Ji  
-*arXiv preprint arXiv:2505.12565. 2025.*  
-\[[pdf](https://arxiv.org/abs/2505.12565)\]
+### oMeBench: Towards Robust Benchmarking of LLMs in Organic Mechanism Elucidation and Reasoning
+Ruiling Xu, Yifan Zhang, Qingyun Wang, Carl Edwards, Heng Ji
+*arXiv preprint arXiv:2510.07731. 2025.*  
+\[[pdf](https://arxiv.org/abs/2510.07731)\]
+
 
 <h2> Conference </h2>
+
 
 ### Translation between Molecules and Natural Language  
 Carl Edwards\*, Tuan Lai\*, Kevin Ros, Garrett Honke, Kyunghyun Cho, and Heng Ji  
@@ -40,6 +42,11 @@ Carl Edwards\*, Tuan Lai\*, Kevin Ros, Garrett Honke, Kyunghyun Cho, and Heng Ji
 Carl Edwards, ChengXiang Zhai, and Heng Ji  
 *Proceedings of the 2021 Conference on Empirical Methods in Natural Language Processing (EMNLP). 2021.*  
 \[[pdf](https://aclanthology.org/2021.emnlp-main.47.pdf)\] \[[video - on underline](https://underline.io/events/192/posters/8244/poster/37985-text2mol-cross-modal-molecule-retrieval-with-natural-language-queries)\] \[[code](https://github.com/cnedwards/text2mol)\]
+
+### mCLM: A Function-Infused and Synthesis-Friendly Modular Chemical Language Model
+Carl Edwards, Chi Han, Gawon Lee, Thao Nguyen, Sara Szymkuć, Chetan Kumar Prasad, Bowen Jin, Jiawei Han, Ying Diao, Ge Liu, Hao Peng, Bartosz A. Grzybowski, Martin D. Burke, Heng Ji
+*Proceedings of the 2026 The Fourteenth International Conference on Learning Representations (ICLR). 2026.*  
+\[[pdf](https://arxiv.org/abs/2505.12565)\]
 
 ### ChemReasoner: Heuristic Search over a Large Language Model's Knowledge Space using Quantum-Chemical Feedback
 Henry W. Sprueill, Carl Edwards, Khushbu Agarwal, Mariefel V. Olarte, Udishnu Sanyal, Conrad Johnston, Hongbin Liu, Heng Ji, and Sutanay Choudhury
