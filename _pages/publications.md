@@ -35,7 +35,7 @@ Ruiling Xu, Yifan Zhang, Qingyun Wang, Carl Edwards, Heng Ji
 
 ### Translation between Molecules and Natural Language  
 Carl Edwards\*, Tuan Lai\*, Kevin Ros, Garrett Honke, Kyunghyun Cho, and Heng Ji  
-*Proceedings of the 2022 Conference on Empirical Methods in Natural Language Processing (EMNLP). 2022.*  
+*Proceedings of the 2022 Conference on Empirical Methods in Natural Language Processing (EMNLP). 2022.  [Oral Presentation]*  
 \[[pdf](https://arxiv.org/abs/2204.11817)\] \[[code](https://github.com/blender-nlp/MolT5)\]
 
 ### Text2Mol: Cross-Modal Molecular Retrieval with Natural Language Queries  
@@ -112,16 +112,15 @@ Xinya Du, Zixuan Zhang, Sha Li, Pengfei Yu, Hongwei Wang, Tuan Manh Lai, Xudong 
 
 <h2>Journal Article</h2>
 
-### In-plane and out-of-plane rotational motion of individual chain molecules in steady shear flow of polymer melts and solutions
-C.N. Edwards, M.H. Nafar Sefiddashti, B.J. Edwards, and B. Khomami, <i>J. Mol. Graph. Model.</i>, 81, 184-196 (2018).  
-\[[link](https://www.sciencedirect.com/science/article/pii/S1093326318300470)\]
-
 
 ### Artificial Intelligence for Science in Quantum, Atomistic, and Continuum Systems
 Xuan Zhang, Limei Wang, Jacob Helwig, Youzhi Luo, Cong Fu, Yaochen Xie, [...], **Carl Edwards**, [...], Alán Aspuru-Guzik, Erik Bekkers, Michael Bronstein, Marinka Zitnik, Anima Anandkumar, Stefano Ermon, Pietro Liò, Rose Yu, Stephan Günnemann, Jure Leskovec, Heng Ji, Jimeng Sun, Regina Barzilay, Tommi Jaakkola, Connor W. Coley, Xiaoning Qian, Xiaofeng Qian, Tess Smidt, and Shuiwang Ji  
 *Foundations and Trends in Machine Learning. 2025.*  
 \[[pdf](https://arxiv.org/abs/2307.08423)\]
 
+### In-plane and out-of-plane rotational motion of individual chain molecules in steady shear flow of polymer melts and solutions
+C.N. Edwards, M.H. Nafar Sefiddashti, B.J. Edwards, and B. Khomami, <i>J. Mol. Graph. Model.</i>, 81, 184-196 (2018).  
+\[[link](https://www.sciencedirect.com/science/article/pii/S1093326318300470)\]
 
 ### Using Similarity Measures to Detect Organizations in Online Escort Advertisements
 C. Edwards, A. Wertz, and A. Dubrawski, <i>Robotics Institute Summer Scholar’ Working Papers Journal</i>, 7, 43-49 (2019).  
