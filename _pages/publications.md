@@ -45,7 +45,7 @@ Carl Edwards, ChengXiang Zhai, and Heng Ji
 
 ### mCLM: A Function-Infused and Synthesis-Friendly Modular Chemical Language Model
 Carl Edwards, Chi Han, Gawon Lee, Thao Nguyen, Sara Szymkuć, Chetan Kumar Prasad, Bowen Jin, Jiawei Han, Ying Diao, Ge Liu, Hao Peng, Bartosz A. Grzybowski, Martin D. Burke, Heng Ji  
-*Proceedings of the 2026 The Fourteenth International Conference on Learning Representations (ICLR). 2026.*  
+*Proceedings of the 2026 The Fourteenth International Conference on Learning Representations (ICLR). 2026. [Oral Presentation]*  
 \[[pdf](https://arxiv.org/abs/2505.12565)\]
 
 ### ChemReasoner: Heuristic Search over a Large Language Model's Knowledge Space using Quantum-Chemical Feedback
