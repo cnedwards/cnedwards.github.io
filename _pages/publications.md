@@ -21,8 +21,16 @@ author_profile: true
 
 My [Google Scholar](https://scholar.google.com/citations?user=oMErt30AAAAJ) is kept better updated.  
 
+# [My Dissertation](https://www.ideals.illinois.edu/items/139487)
+
 
 <h2> Preprint </h2>
+
+### Generative Artificial Intelligence for Biology: Toward Unifying Models, Algorithms, and Modalities
+Xiner Li, Xingyu Su, Yuchao Lin, Chenyu Wang, Yijia Xiao, Tianyu Liu, Chi Han, Michael Sun, Montgomery Bohde, Anna Hart, Wendi Yu, Masatoshi Uehara, Gabriele Scalia, Xiao Luo, Carl Edwards, Wengong Jin, Jianwen Xie, Ehsan Hajiramezanali, Edward De Brouwer, Qing Sun, Byung-Jun Yoon, Xiaoning Qian, Marinka Zitnik, Heng Ji, Hongyu Zhao, Wei Wang, Shuiwang Ji  
+*chemrXiv preprint 10.26434/chemrxiv.10002066/v2. 2026.*
+\[[pdf](https://chemrxiv.org/doi/full/10.26434/chemrxiv.10002066/v2)\]
+
 
 ### oMeBench: Towards Robust Benchmarking of LLMs in Organic Mechanism Elucidation and Reasoning
 Ruiling Xu, Yifan Zhang, Qingyun Wang, Carl Edwards, Heng Ji  
