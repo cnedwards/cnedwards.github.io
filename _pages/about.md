@@ -24,7 +24,11 @@ In terms of research interests, I am generally interested in models which levera
 News
 =====
 
-* I'll be joining Genentech in August as a Senior AI Research Scientist! I'm planning to more closely align multimodal models and agents with real-world drug discovery campaigns. 
+* [February 2026] My dissertation is now [available online](https://www.ideals.illinois.edu/items/139487)!
+
+* [September 2025] I passed my PhD defense.
+
+* [August 2025] I've joined Genentech in August as a Senior AI Research Scientist! I'm planning to more closely align multimodal models and agents with real-world drug discovery campaigns. 
 
 <img src="https://cnedwards.com/images/genentech-logo.png?raw=true" alt="Genentech Logo" style="width: 200px;"/> 
 
