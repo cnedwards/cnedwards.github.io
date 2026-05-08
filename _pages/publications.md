@@ -32,12 +32,6 @@ Xiner Li, Xingyu Su, Yuchao Lin, Chenyu Wang, Yijia Xiao, Tianyu Liu, Chi Han, M
 \[[pdf](https://chemrxiv.org/doi/full/10.26434/chemrxiv.10002066/v2)\]
 
 
-### oMeBench: Towards Robust Benchmarking of LLMs in Organic Mechanism Elucidation and Reasoning
-Ruiling Xu, Yifan Zhang, Qingyun Wang, Carl Edwards, Heng Ji  
-*arXiv preprint arXiv:2510.07731. 2025.*  
-\[[pdf](https://arxiv.org/abs/2510.07731)\]
-
-
 <h2> Conference </h2>
 
 
