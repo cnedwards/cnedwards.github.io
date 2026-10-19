@@ -14,12 +14,19 @@ redirect_from:
 </p>
 -->
 
-Hi! My name is Carl Edwards. I'm a Senior AI Scientist at Genentech R&D in the BRAID department. I was at the University of Illinois at Urbana-Champaign until 2025 for my PhD in CS where I was advised by [Professor Heng Ji](http://blender.cs.illinois.edu/hengji.html). My research focuses on, with increasing specificity, AI4Science &rarr; NLP4Science &rarr; NLP4Chemistry &rarr; NLP for Controlling Molecular Design in cancer drugs, organic photovoltaics, etc. 
+Hi! My name is Carl Edwards. I’m a Senior AI Scientist at Genentech R&D in the AI - Biology & Translation (AIBT) department. I'm currently working on agent systems, multimodal biology foundation models, and how these systems can work together to accelerate scientific discovery, including modalities such as single cell RNA-seq, CRISPR screens, small molecules, DNA, etc. 
+My recent public research focuses on teaching AI systems to design and adapt experiments, particularly [in the context of CRISPR screens](https://arxiv.org/abs/2609.11877).
 
-The world faces an enormous number of problems in the coming decades on scales of complexity never-before-seen, in areas such as climate change, healthcare, and food security, each requiring innovative scientific solutions that are scalable, adaptable, and cost-effective. Further, we need to develop these solutions quickly. Under these conditions, vast quantities of information are being created at ever increasing rates. This flood of information leads to inefficiencies via duplication of effort while critical information is lost in the deluge of papers. To solve these problems, we need to be able to synthesize and understand massive scales of information. This motivates my high-level research direction: applying natural language processing (NLP) for scientific discovery. Specifically, I am currently interested in NLP for molecular and drug discovery, particularly by integrating natural language with molecules.
+I received my PhD in Computer Science from the University of Illinois Urbana-Champaign in 2025, advised by [Professor Heng Ji](http://blender.cs.illinois.edu/hengji.html). There, I worked on multimodal chemistry NLP, with applications in cancer drugs, click chemistry, organic photovoltaics, and catalyst design.
 
-In terms of research interests, I am generally interested in models which leverage multiple modalities and domains of data centered around language. My research interests cover information extraction, information retrieval, natural language processing, representation learning, text mining, and transfer learning. In particular, my work seeks to apply these tools (and develop new ones!) to scientific texts to accelerate scientific discovery. I’m currently working on projects related to drug discovery. In general, I'm passionate about language+multimodal for compositional function-level control of drugs, proteins, and material design.
+Current Research Interests:
 
+- Multimodal foundation models for biology and chemistry
+- Experimental design and hypothesis generation
+- Adaptive systems for scientific discovery
+- Language-centered multimodality in science
+  
+I'm also interested in broader applications of AI to chemistry and materials science, including metal-organic frameworks, molecular machines, and crystal systems, although these are not the focus of my current work.
 
 News
 =====
