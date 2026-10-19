@@ -31,14 +31,11 @@ I'm also interested in broader applications of AI to chemistry and materials sci
 News
 =====
 
+* Excited to release [AssayLoop](https://arxiv.org/abs/2609.11877)! Really excited about this direction of teaching models how to conduct experiments using previous experiments!
+
+* [AssayBench](https://arxiv.org/abs/2605.10876) has been accepted at NeurIPS26 E&D! We take the virtual cell paradigm and move it up to functional, assay level readouts where real drug discovery experiments happen!
+
 * [February 2026] My dissertation is now [available online](https://www.ideals.illinois.edu/items/139487)!
-
-* [September 2025] I passed my PhD defense.
-
-* [August 2025] I've joined Genentech in August as a Senior AI Research Scientist! I'm planning to more closely align multimodal models and agents with real-world drug discovery campaigns. 
-
-<img src="https://cnedwards.com/images/genentech-logo.png?raw=true" alt="Genentech Logo" style="width: 200px;"/> 
-
 
 Links
 =====
@@ -51,6 +48,13 @@ The comprehensive ["Language + Molecules" Tutorial](https://language-plus-molecu
 
 
 <!---
+
+* [September 2025] I passed my PhD defense.
+
+* [August 2025] I've joined Genentech in August as a Senior AI Research Scientist! I'm planning to more closely align multimodal models and agents with real-world drug discovery campaigns. 
+
+<img src="https://cnedwards.com/images/genentech-logo.png?raw=true" alt="Genentech Logo" style="width: 200px;"/> 
+
 
 * Excited to have [Chemreasoner](https://arxiv.org/abs/2402.10980) accepted at ICML24! Really excited about this direction of integrating simulations with LLMs for molecular discovery!
 
