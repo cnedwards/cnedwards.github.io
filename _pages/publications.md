@@ -19,10 +19,51 @@ author_profile: true
 
 -->
 
-My [Google Scholar](https://scholar.google.com/citations?user=oMErt30AAAAJ) is kept better updated.  
-
 # [My Dissertation](https://www.ideals.illinois.edu/items/139487)
 
+
+<h2> Selected Publications </h2>
+
+
+### Biology-in-the-loop: Amortized Adaptive Hit Discovery in CRISPR Screens
+Carl Edwards*, Edward De Brouwer*, Xiner Li*, Anne Biton, Pala Coelho, Namkyeong Lee, Ehsan Hajiramezanali, Aviv Regev, Sara Mostafavi, Gabriele Scalia  
+*arXiv preprint 2609.11877. 2026.*  
+\[[pdf](https://arxiv.org/abs/2609.11877)\]
+
+### AssayBench: An Assay-Level Virtual Cell Benchmark for LLMs and Agents
+Edward De Brouwer*, Carl Edwards*, Alexander Wu*, Jenna Collier, Graham Heimberg, Xiner Li, Meena Subramaniam, Ehsan Hajiramezanali, David Richmond, Jan-Christian Hütter, Sara Mostafavi, Gabriele Scalia  
+*Proceedings of The Fortieth Annual Conference on Neural Information Processing Systems Evaluations & Datasets Track (NeurIPS E&D). 2026.*  
+\[[pdf](https://arxiv.org/abs/2605.10876)\] 
+
+
+### Translation between Molecules and Natural Language  
+Carl Edwards\*, Tuan Lai\*, Kevin Ros, Garrett Honke, Kyunghyun Cho, and Heng Ji  
+*Proceedings of the 2022 Conference on Empirical Methods in Natural Language Processing (EMNLP). 2022.  [Oral Presentation]*  
+\[[pdf](https://arxiv.org/abs/2204.11817)\] \[[code](https://github.com/blender-nlp/MolT5)\]
+
+### Text2Mol: Cross-Modal Molecular Retrieval with Natural Language Queries  
+Carl Edwards, ChengXiang Zhai, and Heng Ji  
+*Proceedings of the 2021 Conference on Empirical Methods in Natural Language Processing (EMNLP). 2021.*  
+\[[pdf](https://aclanthology.org/2021.emnlp-main.47.pdf)\] \[[video - on underline](https://underline.io/events/192/posters/8244/poster/37985-text2mol-cross-modal-molecule-retrieval-with-natural-language-queries)\] \[[code](https://github.com/cnedwards/text2mol)\]
+
+### mCLM: A Function-Infused and Synthesis-Friendly Modular Chemical Language Model
+Carl Edwards, Chi Han, Gawon Lee, Thao Nguyen, Sara Szymkuć, Chetan Kumar Prasad, Bowen Jin, Jiawei Han, Ying Diao, Ge Liu, Hao Peng, Bartosz A. Grzybowski, Martin D. Burke, Heng Ji  
+*Proceedings of the 2026 The Fourteenth International Conference on Learning Representations (ICLR). 2026. [Oral Presentation]*  
+\[[pdf](https://arxiv.org/abs/2505.12565)\]
+
+### ChemReasoner: Heuristic Search over a Large Language Model's Knowledge Space using Quantum-Chemical Feedback
+Henry W. Sprueill, Carl Edwards, Khushbu Agarwal, Mariefel V. Olarte, Udishnu Sanyal, Conrad Johnston, Hongbin Liu, Heng Ji, and Sutanay Choudhury
+*Proceedings of the 2024 Internation Conference on Machine Learning (ICML). 2024.*  
+\[[pdf](https://arxiv.org/pdf/2402.10980.pdf)\] 
+
+
+
+<h1> Papers </h1>
+
+My [Google Scholar](https://scholar.google.com/citations?user=oMErt30AAAAJ) is kept better updated.  
+
+---
+---
 
 <h2> Preprint </h2>
 
