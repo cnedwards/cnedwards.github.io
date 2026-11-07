@@ -31,6 +31,8 @@ I'm also interested in broader applications of AI to chemistry and materials sci
 News
 =====
 
+* [Slides from my talk](https://cnedwards.com/files/assayloop_aias_november_full.html) on AssayBench/AssayLoop are now online! Here, I ask the (ridiculous) question: how do we "solve" biology? 
+
 * Excited to release [AssayLoop](https://arxiv.org/abs/2609.11877)! Really excited about this direction of teaching models how to conduct experiments using previous experiments!
 
 * [AssayBench](https://arxiv.org/abs/2605.10876) has been accepted at NeurIPS26 E&D! We take the virtual cell paradigm and move it up to functional, assay level readouts where real drug discovery experiments happen!
