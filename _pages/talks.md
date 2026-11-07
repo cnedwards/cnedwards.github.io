@@ -5,6 +5,10 @@ permalink: /talks/
 author_profile: true
 ---
 
+* “Learning to Predict Biology (and what to measure next)” [AIAS 2026, The 3rd Workshop on Lifelong Agents](https://lifelongagent.github.io/aias26.html/), San Francisco, 
+November 2026.
+  * [Here](https://cnedwards.com/files/assayloop_aias_november_full.html) are the slides from my talk. 
+
 * “Molecule-Language Multimodality.” [ChemLLMathon webinar, Chemindix 2024 Conference](https://chemindix2024.com/chemllmathon-program/), Saudi Aramco, 
 November 2024.  
 
