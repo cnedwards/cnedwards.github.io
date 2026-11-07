@@ -5,7 +5,7 @@ permalink: /talks/
 author_profile: true
 ---
 
-* “Learning to Predict Biology (and what to measure next)” [AIAS 2026, The 3rd Workshop on Lifelong Agents](https://lifelongagent.github.io/aias26.html/), San Francisco, 
+* “Learning to Predict Biology (and what to measure next).” [AIAS 2026](https://www.aiasplus.org/), [The 3rd Workshop on Lifelong Agents](https://lifelongagent.github.io/aias26.html), San Francisco, 
 November 2026.
   * [Here](https://cnedwards.com/files/assayloop_aias_november_full.html) are the slides from my talk. 
 
