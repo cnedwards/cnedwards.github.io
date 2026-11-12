@@ -145,4 +145,36 @@ new MutationObserver(start).observe(document.getElementById('stage'),{subtree:tr
 })();
 
 (()=>{let current=null,step=0;function paint(){if(!current)return;current.querySelectorAll('[data-reveal]').forEach(e=>e.classList.toggle('unrevealed',Number(e.dataset.reveal)>step));current.dataset.buildStep=step}function sync(){const slide=document.querySelector('.slide.active');if(slide===current)return;current=slide;step=0;if(current?.querySelector('[data-build]'))paint()}const old=window.advanceExplainer;window.advanceExplainer=()=>{sync();const build=current?.querySelector('[data-build]');if(build&&step<Number(build.dataset.build)){step++;paint();return true}return old?.()||false};new MutationObserver(sync).observe(document.getElementById('stage'),{subtree:true,attributes:true,attributeFilter:['class']});sync()})();
+</script><script>// Track the published talk only; local rehearsals remain offline.
+(() => {
+  if (!['cnedwards.com', 'www.cnedwards.com', 'cnedwards.github.io'].includes(location.hostname)) return;
+  const measurementId = 'G-16DVQQ0WW2';
+  window.dataLayer = window.dataLayer || [];
+  window.gtag = window.gtag || function () { window.dataLayer.push(arguments); };
+  window.gtag('js', new Date());
+  window.gtag('config', measurementId);
+  const tag = document.createElement('script');
+  tag.async = true;
+  tag.src = 'https://www.googletagmanager.com/gtag/js?id=' + measurementId;
+  document.head.appendChild(tag);
+  const deckSlides = [...document.querySelectorAll('#stage > .slide')];
+  const slideMetadata = JSON.parse(document.getElementById('metadata').textContent);
+  let previousSlide = null;
+  function trackSlide() {
+    const active = document.querySelector('#stage > .slide.active');
+    if (!active || active === previousSlide) return;
+    previousSlide = active;
+    const index = deckSlides.indexOf(active);
+    window.gtag('event', 'slide_view', {
+      send_to: measurementId,
+      deck_title: document.title,
+      slide_number: index + 1,
+      slide_title: slideMetadata[index].title,
+      page_location: location.href
+    });
+  }
+  const observer = new MutationObserver(trackSlide);
+  deckSlides.forEach(slide => observer.observe(slide, { attributes: true, attributeFilter: ['class'] }));
+  trackSlide();
+})();
 </script></body></html>
